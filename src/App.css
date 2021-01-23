@@ -1,0 +1,80 @@
+body {
+  padding: 8px;
+}
+
+h1 {
+  margin: 0;
+  padding-bottom: 20px;
+}
+
+#selector {
+  width: 256px;
+  margin-left: 24px;
+  margin-bottom: 16px;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  grid-template-rows: 1fr 1fr 24px;
+  grid-column-gap: 4px;
+  grid-row-gap: 8px;
+}
+
+#selector label {
+  margin-right: 8px;
+}
+
+#recipe {
+  margin-left: 24px;
+}
+
+.react-checkbox-tree {
+  margin-left: 24px;
+  font-size: 20px;
+}
+
+.rct-title {
+  font-size: 20px;
+}
+
+.rct-text button {
+  margin-top: 4px;
+}
+
+.rct-text svg {
+  width: 15px !important;
+  height: 18.75px !important;
+}
+
+#summary {
+  margin-left: 24px;
+}
+
+#tables {
+  display: flex;
+  width: 600px;
+  justify-content: space-between;
+}
+
+#tables h3 {
+  margin-top: 0;
+}
+
+#summary table {
+  border-collapse: collapse;
+  margin-left: 24px;
+}
+
+#summary td, #summary th {
+  border: 1px solid rgb(236, 236, 236);
+  padding: 8px;
+}
+
+#summary th {
+  padding: 12px;
+  text-align: left;
+}
+
+@media(max-width: 720px) {
+  #tables {
+    flex-direction: column;
+  }
+}
