@@ -63,7 +63,7 @@ export default {
     ],
     "Mixer": [
       {
-        "name": "Plate",
+        "name": "StackedPlate",
         "tier": 0,
         "count": 5
       }, {
