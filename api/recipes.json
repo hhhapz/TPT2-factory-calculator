@@ -1,0 +1,5326 @@
+{
+    "Parts": {
+        "block.dense.t0": {
+            "Type": "machine",
+            "Name": "block.dense.t0",
+            "DisplayName": "Dense Block",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t1/block_dense.png",
+            "Source": "block.t0",
+            "Machine": "machine.boiler.t0",
+            "Produced": 1
+        },
+        "block.dense.t1": {
+            "Type": "machine",
+            "Name": "block.dense.t1",
+            "DisplayName": "Dense Block (T2)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t2/block_dense.png",
+            "Source": "block.t1",
+            "Machine": "machine.boiler.t1",
+            "Produced": 1
+        },
+        "block.dense.t2": {
+            "Type": "machine",
+            "Name": "block.dense.t2",
+            "DisplayName": "Dense Block (T3)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t3/block_dense.png",
+            "Source": "block.t2",
+            "Machine": "machine.boiler.t2",
+            "Produced": 1
+        },
+        "block.dense.t3": {
+            "Type": "machine",
+            "Name": "block.dense.t3",
+            "DisplayName": "Dense Block (T4)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t4/block_dense.png",
+            "Source": "block.t3",
+            "Machine": "machine.boiler.t3",
+            "Produced": 1
+        },
+        "block.dense.t4": {
+            "Type": "machine",
+            "Name": "block.dense.t4",
+            "DisplayName": "Dense Block (T5)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t5/block_dense.png",
+            "Source": "block.t4",
+            "Machine": "machine.boiler.t4",
+            "Produced": 1
+        },
+        "block.dense.t5": {
+            "Type": "machine",
+            "Name": "block.dense.t5",
+            "DisplayName": "Dense Block (T6)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t6/block_dense.png",
+            "Source": "block.t5",
+            "Machine": "machine.boiler.t5",
+            "Produced": 1
+        },
+        "block.dense.t6": {
+            "Type": "machine",
+            "Name": "block.dense.t6",
+            "DisplayName": "Dense Block (T7)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t7/block_dense.png",
+            "Source": "block.t6",
+            "Machine": "machine.boiler.t6",
+            "Produced": 1
+        },
+        "block.dense.t7": {
+            "Type": "machine",
+            "Name": "block.dense.t7",
+            "DisplayName": "Dense Block (T8)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t8/block_dense.png",
+            "Source": "block.t7",
+            "Machine": "machine.boiler.t7",
+            "Produced": 1
+        },
+        "block.dense.t8": {
+            "Type": "machine",
+            "Name": "block.dense.t8",
+            "DisplayName": "Dense Block (T9)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t9/block_dense.png",
+            "Source": "block.t8",
+            "Machine": "machine.boiler.t8",
+            "Produced": 1
+        },
+        "block.dense.t9": {
+            "Type": "machine",
+            "Name": "block.dense.t9",
+            "DisplayName": "Dense Block (T10)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t10/block_dense.png",
+            "Source": "block.t9",
+            "Machine": "machine.boiler.t9",
+            "Produced": 1
+        },
+        "block.t0": {
+            "Type": "recipe",
+            "Name": "block.t0",
+            "DisplayName": "Block",
+            "Category": "category.parts.t0",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t1/block.png",
+            "Cost": 20,
+            "Shape": [
+                "###",
+                "# #",
+                "###"
+            ],
+            "Parts": {
+                "#": "plate.dense.t0"
+            }
+        },
+        "block.t1": {
+            "Type": "recipe",
+            "Name": "block.t1",
+            "DisplayName": "Block (T2)",
+            "Category": "category.parts.t1",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t2/block.png",
+            "Cost": 80,
+            "Shape": [
+                "###",
+                "# #",
+                "###"
+            ],
+            "Parts": {
+                "#": "plate.dense.t1"
+            }
+        },
+        "block.t2": {
+            "Type": "recipe",
+            "Name": "block.t2",
+            "DisplayName": "Block (T3)",
+            "Category": "category.parts.t2",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t3/block.png",
+            "Cost": 320,
+            "Shape": [
+                "###",
+                "# #",
+                "###"
+            ],
+            "Parts": {
+                "#": "plate.dense.t2"
+            }
+        },
+        "block.t3": {
+            "Type": "recipe",
+            "Name": "block.t3",
+            "DisplayName": "Block (T4)",
+            "Category": "category.parts.t3",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t4/block.png",
+            "Cost": 1280,
+            "Shape": [
+                "###",
+                "# #",
+                "###"
+            ],
+            "Parts": {
+                "#": "plate.dense.t3"
+            }
+        },
+        "block.t4": {
+            "Type": "recipe",
+            "Name": "block.t4",
+            "DisplayName": "Block (T5)",
+            "Category": "category.parts.t4",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t5/block.png",
+            "Cost": 5120,
+            "Shape": [
+                "###",
+                "# #",
+                "###"
+            ],
+            "Parts": {
+                "#": "plate.dense.t4"
+            }
+        },
+        "block.t5": {
+            "Type": "recipe",
+            "Name": "block.t5",
+            "DisplayName": "Block (T6)",
+            "Category": "category.parts.t5",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t6/block.png",
+            "Cost": 20480,
+            "Shape": [
+                "###",
+                "# #",
+                "###"
+            ],
+            "Parts": {
+                "#": "plate.dense.t5"
+            }
+        },
+        "block.t6": {
+            "Type": "recipe",
+            "Name": "block.t6",
+            "DisplayName": "Block (T7)",
+            "Category": "category.parts.t6",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t7/block.png",
+            "Cost": 81920,
+            "Shape": [
+                "####",
+                "#  #",
+                "####"
+            ],
+            "Parts": {
+                "#": "plate.dense.t6"
+            }
+        },
+        "block.t7": {
+            "Type": "recipe",
+            "Name": "block.t7",
+            "DisplayName": "Block (T8)",
+            "Category": "category.parts.t7",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t8/block.png",
+            "Cost": 327680,
+            "Shape": [
+                "####",
+                "#  #",
+                "####"
+            ],
+            "Parts": {
+                "#": "plate.dense.t7"
+            }
+        },
+        "block.t8": {
+            "Type": "recipe",
+            "Name": "block.t8",
+            "DisplayName": "Block (T9)",
+            "Category": "category.parts.t8",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t9/block.png",
+            "Cost": 1310720,
+            "Shape": [
+                "####",
+                "#  #",
+                "####"
+            ],
+            "Parts": {
+                "#": "plate.dense.t8"
+            }
+        },
+        "block.t9": {
+            "Type": "recipe",
+            "Name": "block.t9",
+            "DisplayName": "Block (T10)",
+            "Category": "category.parts.t9",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t10/block.png",
+            "Cost": 5242880,
+            "Shape": [
+                "####",
+                "#  #",
+                "####"
+            ],
+            "Parts": {
+                "#": "plate.dense.t9"
+            }
+        },
+        "cable.insulated.t0": {
+            "Type": "recipe",
+            "Name": "cable.insulated.t0",
+            "DisplayName": "Ins. Cable",
+            "Category": "category.parts.t0",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t1/cable_insulated.png",
+            "Cost": 0,
+            "Shape": [
+                "#A"
+            ],
+            "Parts": {
+                "#": "cable.t0",
+                "A": "rubber"
+            }
+        },
+        "cable.insulated.t1": {
+            "Type": "recipe",
+            "Name": "cable.insulated.t1",
+            "DisplayName": "Ins. Cable (T2)",
+            "Category": "category.parts.t1",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t2/cable_insulated.png",
+            "Cost": 5,
+            "Shape": [
+                "#A#"
+            ],
+            "Parts": {
+                "#": "rubber",
+                "A": "cable.t1"
+            }
+        },
+        "cable.insulated.t2": {
+            "Type": "recipe",
+            "Name": "cable.insulated.t2",
+            "DisplayName": "Ins. Cable (T3)",
+            "Category": "category.parts.t2",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t3/cable_insulated.png",
+            "Cost": 20,
+            "Shape": [
+                "#A#"
+            ],
+            "Parts": {
+                "#": "plate.rubber",
+                "A": "cable.t2"
+            }
+        },
+        "cable.insulated.t3": {
+            "Type": "recipe",
+            "Name": "cable.insulated.t3",
+            "DisplayName": "Ins. Cable (T4)",
+            "Category": "category.parts.t3",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t4/cable_insulated.png",
+            "Cost": 150,
+            "Shape": [
+                "##",
+                "AA",
+                "##"
+            ],
+            "Parts": {
+                "#": "plate.rubber",
+                "A": "cable.t3"
+            }
+        },
+        "cable.insulated.t4": {
+            "Type": "recipe",
+            "Name": "cable.insulated.t4",
+            "DisplayName": "Ins. Cable (T5)",
+            "Category": "category.parts.t4",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t5/cable_insulated.png",
+            "Cost": 500,
+            "Shape": [
+                "###",
+                "AAA",
+                "###"
+            ],
+            "Parts": {
+                "#": "plate.rubber",
+                "A": "cable.t4"
+            }
+        },
+        "cable.insulated.t5": {
+            "Type": "recipe",
+            "Name": "cable.insulated.t5",
+            "DisplayName": "Ins. Cable (T6)",
+            "Category": "category.parts.t5",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t6/cable_insulated.png",
+            "Cost": 2000,
+            "Shape": [
+                "####",
+                "AAAA",
+                "####"
+            ],
+            "Parts": {
+                "#": "plate.rubber",
+                "A": "cable.t5"
+            }
+        },
+        "cable.insulated.t6": {
+            "Type": "recipe",
+            "Name": "cable.insulated.t6",
+            "DisplayName": "Ins. Cable (T7)",
+            "Category": "category.parts.t6",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t7/cable_insulated.png",
+            "Cost": 5000,
+            "Shape": [
+                "#####",
+                "AAAAA",
+                "#####"
+            ],
+            "Parts": {
+                "#": "plate.rubber",
+                "A": "cable.t6"
+            }
+        },
+        "cable.insulated.t7": {
+            "Type": "recipe",
+            "Name": "cable.insulated.t7",
+            "DisplayName": "Ins. Cable (T8)",
+            "Category": "category.parts.t7",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t8/cable_insulated.png",
+            "Cost": 12500,
+            "Shape": [
+                "#####",
+                "AAAAA",
+                "AAAAA",
+                "#####"
+            ],
+            "Parts": {
+                "#": "plate.rubber",
+                "A": "cable.t7"
+            }
+        },
+        "cable.insulated.t8": {
+            "Type": "recipe",
+            "Name": "cable.insulated.t8",
+            "DisplayName": "Ins. Cable (T9)",
+            "Category": "category.parts.t8",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t9/cable_insulated.png",
+            "Cost": 75000,
+            "Shape": [
+                "######",
+                "AAAAAA",
+                "AAAAAA",
+                "######"
+            ],
+            "Parts": {
+                "#": "plate.rubber",
+                "A": "cable.t8"
+            }
+        },
+        "cable.insulated.t9": {
+            "Type": "recipe",
+            "Name": "cable.insulated.t9",
+            "DisplayName": "Ins. Cable (T10)",
+            "Category": "category.parts.t9",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t10/cable_insulated.png",
+            "Cost": 250000,
+            "Shape": [
+                "########",
+                "AAAAAAAA",
+                "AAAAAAAA",
+                "########"
+            ],
+            "Parts": {
+                "#": "plate.rubber",
+                "A": "cable.t9"
+            }
+        },
+        "cable.t0": {
+            "Type": "machine",
+            "Name": "cable.t0",
+            "DisplayName": "Cable",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t1/cable.png",
+            "Source": "ingot.t0",
+            "Machine": "machine.refinery.t0",
+            "Produced": 2
+        },
+        "cable.t1": {
+            "Type": "machine",
+            "Name": "cable.t1",
+            "DisplayName": "Cable (T2)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t2/cable.png",
+            "Source": "ingot.t1",
+            "Machine": "machine.refinery.t1",
+            "Produced": 2
+        },
+        "cable.t2": {
+            "Type": "machine",
+            "Name": "cable.t2",
+            "DisplayName": "Cable (T3)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t3/cable.png",
+            "Source": "ingot.t2",
+            "Machine": "machine.refinery.t2",
+            "Produced": 2
+        },
+        "cable.t3": {
+            "Type": "machine",
+            "Name": "cable.t3",
+            "DisplayName": "Cable (T4)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t4/cable.png",
+            "Source": "ingot.t3",
+            "Machine": "machine.refinery.t3",
+            "Produced": 2
+        },
+        "cable.t4": {
+            "Type": "machine",
+            "Name": "cable.t4",
+            "DisplayName": "Cable (T5)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t5/cable.png",
+            "Source": "ingot.t4",
+            "Machine": "machine.refinery.t4",
+            "Produced": 2
+        },
+        "cable.t5": {
+            "Type": "machine",
+            "Name": "cable.t5",
+            "DisplayName": "Cable (T6)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t6/cable.png",
+            "Source": "ingot.t5",
+            "Machine": "machine.refinery.t5",
+            "Produced": 2
+        },
+        "cable.t6": {
+            "Type": "machine",
+            "Name": "cable.t6",
+            "DisplayName": "Cable (T7)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t7/cable.png",
+            "Source": "ingot.t6",
+            "Machine": "machine.refinery.t6",
+            "Produced": 2
+        },
+        "cable.t7": {
+            "Type": "machine",
+            "Name": "cable.t7",
+            "DisplayName": "Cable (T8)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t8/cable.png",
+            "Source": "ingot.t7",
+            "Machine": "machine.refinery.t7",
+            "Produced": 2
+        },
+        "cable.t8": {
+            "Type": "machine",
+            "Name": "cable.t8",
+            "DisplayName": "Cable (T9)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t9/cable.png",
+            "Source": "ingot.t8",
+            "Machine": "machine.refinery.t8",
+            "Produced": 2
+        },
+        "cable.t9": {
+            "Type": "machine",
+            "Name": "cable.t9",
+            "DisplayName": "Cable (T10)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t10/cable.png",
+            "Source": "ingot.t9",
+            "Machine": "machine.refinery.t9",
+            "Produced": 2
+        },
+        "chip.advanced": {
+            "Type": "recipe",
+            "Name": "chip.advanced",
+            "DisplayName": "Advanced Chip",
+            "Category": "category.chips",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/advanced_chip.png",
+            "Cost": 100,
+            "Shape": [
+                "BCCB",
+                "CAAC",
+                "DAAD",
+                "EDDE"
+            ],
+            "Parts": {
+                "A": "chip.basic",
+                "B": "circuit.t2",
+                "C": "plate.circuit.t2",
+                "D": "circuit.t3",
+                "E": "plate.circuit.t3"
+            }
+        },
+        "chip.basic": {
+            "Type": "recipe",
+            "Name": "chip.basic",
+            "DisplayName": "Basic Chip",
+            "Category": "category.chips",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/basic_chip.png",
+            "Cost": 5,
+            "Shape": [
+                "ABA",
+                "CDC"
+            ],
+            "Parts": {
+                "A": "circuit.t0",
+                "B": "plate.circuit.t0",
+                "C": "circuit.t1",
+                "D": "plate.circuit.t1"
+            }
+        },
+        "chip.hitech": {
+            "Type": "recipe",
+            "Name": "chip.hitech",
+            "DisplayName": "Hitech Chip",
+            "Category": "category.chips",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/hitech_chip.png",
+            "Cost": 2500,
+            "Shape": [
+                "BCCB",
+                "CAAAAC",
+                "DAAAAD",
+                "EDDE"
+            ],
+            "Parts": {
+                "A": "chip.advanced",
+                "B": "circuit.t4",
+                "C": "plate.circuit.t4",
+                "D": "circuit.t5",
+                "E": "plate.circuit.t5"
+            }
+        },
+        "chip.nano": {
+            "Type": "recipe",
+            "Name": "chip.nano",
+            "DisplayName": "Nano Chip",
+            "Category": "category.chips",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/nano_chip.png",
+            "Cost": 100000,
+            "Shape": [
+                "BCCCCB",
+                "CAAAAAAC",
+                "DAAAAAAD",
+                "EDDDDE"
+            ],
+            "Parts": {
+                "A": "chip.hitech",
+                "B": "circuit.t6",
+                "C": "plate.circuit.t6",
+                "D": "plate.circuit.t7",
+                "E": "circuit.t7"
+            }
+        },
+        "chip.quantum": {
+            "Type": "recipe",
+            "Name": "chip.quantum",
+            "DisplayName": "Quantum Chip",
+            "Category": "category.chips",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/quantum_chip.png",
+            "Cost": 1000000,
+            "Shape": [
+                "BCCCCCCB",
+                "CAAAAAAC",
+                "DAAAAAAD",
+                "EDDDDDDE"
+            ],
+            "Parts": {
+                "A": "chip.nano",
+                "B": "circuit.t8",
+                "C": "plate.circuit.t8",
+                "D": "plate.circuit.t9",
+                "E": "circuit.t9"
+            }
+        },
+        "circuit.t0": {
+            "Type": "machine",
+            "Name": "circuit.t0",
+            "DisplayName": "Circuit Wires",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t1/circuit_wires.png",
+            "Source": "cable.t0",
+            "Machine": "machine.assembler.t0",
+            "Produced": 1
+        },
+        "circuit.t1": {
+            "Type": "machine",
+            "Name": "circuit.t1",
+            "DisplayName": "Circuit Wires (T2)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t2/circuit_wires.png",
+            "Source": "cable.t1",
+            "Machine": "machine.assembler.t1",
+            "Produced": 1
+        },
+        "circuit.t2": {
+            "Type": "machine",
+            "Name": "circuit.t2",
+            "DisplayName": "Circuit Wires (T3)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t3/circuit_wires.png",
+            "Source": "cable.t2",
+            "Machine": "machine.assembler.t2",
+            "Produced": 1
+        },
+        "circuit.t3": {
+            "Type": "machine",
+            "Name": "circuit.t3",
+            "DisplayName": "Circuit Wires (T4)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t4/circuit_wires.png",
+            "Source": "cable.t3",
+            "Machine": "machine.assembler.t3",
+            "Produced": 1
+        },
+        "circuit.t4": {
+            "Type": "machine",
+            "Name": "circuit.t4",
+            "DisplayName": "Circuit Wires (T5)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t5/circuit_wires.png",
+            "Source": "cable.t4",
+            "Machine": "machine.assembler.t4",
+            "Produced": 1
+        },
+        "circuit.t5": {
+            "Type": "machine",
+            "Name": "circuit.t5",
+            "DisplayName": "Circuit Wires (T6)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t6/circuit_wires.png",
+            "Source": "cable.t5",
+            "Machine": "machine.assembler.t5",
+            "Produced": 1
+        },
+        "circuit.t6": {
+            "Type": "machine",
+            "Name": "circuit.t6",
+            "DisplayName": "Circuit Wires (T7)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t7/circuit_wires.png",
+            "Source": "cable.t6",
+            "Machine": "machine.assembler.t6",
+            "Produced": 1
+        },
+        "circuit.t7": {
+            "Type": "machine",
+            "Name": "circuit.t7",
+            "DisplayName": "Circuit Wires (T8)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t8/circuit_wires.png",
+            "Source": "cable.t7",
+            "Machine": "machine.assembler.t7",
+            "Produced": 1
+        },
+        "circuit.t8": {
+            "Type": "machine",
+            "Name": "circuit.t8",
+            "DisplayName": "Circuit Wires (T9)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t9/circuit_wires.png",
+            "Source": "cable.t8",
+            "Machine": "machine.assembler.t8",
+            "Produced": 1
+        },
+        "circuit.t9": {
+            "Type": "machine",
+            "Name": "circuit.t9",
+            "DisplayName": "Circuit Wires (T10)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t10/circuit_wires.png",
+            "Source": "cable.t9",
+            "Machine": "machine.assembler.t9",
+            "Produced": 1
+        },
+        "hammer": {
+            "Type": "shop",
+            "Name": "hammer",
+            "DisplayName": "Hammer",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/hammer.png",
+            "Cost": 20
+        },
+        "machine.assembler.t0": {
+            "Type": "recipe",
+            "Name": "machine.assembler.t0",
+            "DisplayName": "Assembly",
+            "Category": "category.machines.t0",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t1/assembly.png",
+            "Cost": 100,
+            "Shape": [
+                "###",
+                "ABC",
+                "###"
+            ],
+            "Parts": {
+                "#": "plate.dense.t0",
+                "A": "pipe.t0",
+                "B": "chip.basic",
+                "C": "motor.t0"
+            }
+        },
+        "machine.assembler.t1": {
+            "Type": "recipe",
+            "Name": "machine.assembler.t1",
+            "DisplayName": "Assembly (T2)",
+            "Category": "category.machines.t1",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t2/assembly.png",
+            "Cost": 500,
+            "Shape": [
+                "###",
+                "ABC",
+                "#D#"
+            ],
+            "Parts": {
+                "#": "plate.dense.t1",
+                "A": "pipe.t1",
+                "B": "chip.basic",
+                "C": "motor.t1",
+                "D": "machine.assembler.t0"
+            }
+        },
+        "machine.assembler.t2": {
+            "Type": "recipe",
+            "Name": "machine.assembler.t2",
+            "DisplayName": "Assembly (T3)",
+            "Category": "category.machines.t2",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t3/assembly.png",
+            "Cost": 3000,
+            "Shape": [
+                "####",
+                "ABCD",
+                "####"
+            ],
+            "Parts": {
+                "#": "plate.dense.t2",
+                "A": "pipe.t2",
+                "B": "chip.basic",
+                "C": "motor.t2",
+                "D": "machine.assembler.t1"
+            }
+        },
+        "machine.assembler.t3": {
+            "Type": "recipe",
+            "Name": "machine.assembler.t3",
+            "DisplayName": "Assembly (T4)",
+            "Category": "category.machines.t3",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t4/assembly.png",
+            "Cost": 20000,
+            "Shape": [
+                "####",
+                "ABCD",
+                "####"
+            ],
+            "Parts": {
+                "#": "plate.dense.t3",
+                "A": "pipe.t3",
+                "B": "chip.advanced",
+                "C": "motor.t3",
+                "D": "machine.assembler.t2"
+            }
+        },
+        "machine.assembler.t4": {
+            "Type": "recipe",
+            "Name": "machine.assembler.t4",
+            "DisplayName": "Assembly (T5)",
+            "Category": "category.machines.t4",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t5/assembly.png",
+            "Cost": 120000,
+            "Shape": [
+                "####",
+                "ABCD",
+                "####"
+            ],
+            "Parts": {
+                "#": "plate.dense.t4",
+                "A": "pipe.t4",
+                "B": "chip.advanced",
+                "C": "motor.t4",
+                "D": "machine.assembler.t3"
+            }
+        },
+        "machine.assembler.t5": {
+            "Type": "recipe",
+            "Name": "machine.assembler.t5",
+            "DisplayName": "Assembly (T6)",
+            "Category": "category.machines.t5",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t6/assembly.png",
+            "Cost": 500000,
+            "Shape": [
+                "#####",
+                "ABCDA",
+                "#####"
+            ],
+            "Parts": {
+                "#": "plate.dense.t5",
+                "A": "pipe.t5",
+                "B": "chip.advanced",
+                "C": "motor.t5",
+                "D": "machine.assembler.t4"
+            }
+        },
+        "machine.assembler.t6": {
+            "Type": "recipe",
+            "Name": "machine.assembler.t6",
+            "DisplayName": "Assembly (T7)",
+            "Category": "category.machines.t6",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t7/assembly.png",
+            "Cost": 7500000,
+            "Shape": [
+                "#####",
+                "ABCDA",
+                "#####"
+            ],
+            "Parts": {
+                "#": "plate.dense.t6",
+                "A": "pipe.t6",
+                "B": "chip.hitech",
+                "C": "motor.t6",
+                "D": "machine.assembler.t5"
+            }
+        },
+        "machine.assembler.t7": {
+            "Type": "recipe",
+            "Name": "machine.assembler.t7",
+            "DisplayName": "Assembly (T8)",
+            "Category": "category.machines.t7",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t8/assembly.png",
+            "Cost": 20000000,
+            "Shape": [
+                "#####",
+                "ABCDA",
+                "#####"
+            ],
+            "Parts": {
+                "#": "plate.dense.t7",
+                "A": "pipe.t7",
+                "B": "chip.hitech",
+                "C": "motor.t7",
+                "D": "machine.assembler.t6"
+            }
+        },
+        "machine.assembler.t8": {
+            "Type": "recipe",
+            "Name": "machine.assembler.t8",
+            "DisplayName": "Assembly (T9)",
+            "Category": "category.machines.t8",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t9/assembly.png",
+            "Cost": 75000000,
+            "Shape": [
+                "######",
+                "ABCDCA",
+                "######"
+            ],
+            "Parts": {
+                "#": "plate.dense.t8",
+                "A": "pipe.t8",
+                "B": "chip.nano",
+                "C": "motor.t8",
+                "D": "machine.assembler.t7"
+            }
+        },
+        "machine.assembler.t9": {
+            "Type": "recipe",
+            "Name": "machine.assembler.t9",
+            "DisplayName": "Assembly (T10)",
+            "Category": "category.machines.t9",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t10/assembly.png",
+            "Cost": 100000000,
+            "Shape": [
+                "#####",
+                "ABCDCBA",
+                "#######"
+            ],
+            "Parts": {
+                "#": "plate.dense.t9",
+                "A": "pipe.t9",
+                "B": "chip.nano",
+                "C": "motor.t9",
+                "D": "machine.assembler.t8"
+            }
+        },
+        "machine.boiler.t0": {
+            "Type": "recipe",
+            "Name": "machine.boiler.t0",
+            "DisplayName": "Boiler",
+            "Category": "category.machines.t0",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t1/boiler.png",
+            "Cost": 100,
+            "Shape": [
+                "EBBE",
+                "#CD#",
+                "#AA#"
+            ],
+            "Parts": {
+                "#": "block.t0",
+                "A": "wire.t0",
+                "B": "plate.dense.t0",
+                "C": "motor.t0",
+                "D": "pump.t0",
+                "E": "screw.t0"
+            }
+        },
+        "machine.boiler.t1": {
+            "Type": "recipe",
+            "Name": "machine.boiler.t1",
+            "DisplayName": "Boiler (T2)",
+            "Category": "category.machines.t1",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t2/boiler.png",
+            "Cost": 3000,
+            "Shape": [
+                "EBBE",
+                "#CD#",
+                "#AA#",
+                "##F#"
+            ],
+            "Parts": {
+                "#": "block.t1",
+                "A": "wire.t1",
+                "B": "plate.dense.t1",
+                "C": "motor.t1",
+                "D": "pump.t1",
+                "E": "screw.t1",
+                "F": "machine.boiler.t0"
+            }
+        },
+        "machine.boiler.t2": {
+            "Type": "recipe",
+            "Name": "machine.boiler.t2",
+            "DisplayName": "Boiler (T3)",
+            "Category": "category.machines.t2",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t3/boiler.png",
+            "Cost": 15000,
+            "Shape": [
+                "EBBE",
+                "#CD#",
+                "#AA#",
+                "##F#"
+            ],
+            "Parts": {
+                "#": "block.t2",
+                "A": "wire.t2",
+                "B": "plate.dense.t2",
+                "C": "motor.t2",
+                "D": "pump.t2",
+                "E": "screw.t2",
+                "F": "machine.boiler.t1"
+            }
+        },
+        "machine.boiler.t3": {
+            "Type": "recipe",
+            "Name": "machine.boiler.t3",
+            "DisplayName": "Boiler (T4)",
+            "Category": "category.machines.t3",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t4/boiler.png",
+            "Cost": 135000,
+            "Shape": [
+                "EBBBE",
+                "#CDC#",
+                "#AAA#",
+                "##F##"
+            ],
+            "Parts": {
+                "#": "block.t3",
+                "A": "wire.t3",
+                "B": "plate.dense.t3",
+                "C": "motor.t3",
+                "D": "pump.t3",
+                "E": "screw.t3",
+                "F": "machine.boiler.t2"
+            }
+        },
+        "machine.boiler.t4": {
+            "Type": "recipe",
+            "Name": "machine.boiler.t4",
+            "DisplayName": "Boiler (T5)",
+            "Category": "category.machines.t4",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t5/boiler.png",
+            "Cost": 500000,
+            "Shape": [
+                "EBBBE",
+                "#CDC#",
+                "#AAA#",
+                "##F##"
+            ],
+            "Parts": {
+                "#": "block.t4",
+                "A": "wire.t4",
+                "B": "plate.dense.t4",
+                "C": "motor.t4",
+                "D": "pump.t4",
+                "E": "screw.t4",
+                "F": "machine.boiler.t3"
+            }
+        },
+        "machine.boiler.t5": {
+            "Type": "recipe",
+            "Name": "machine.boiler.t5",
+            "DisplayName": "Boiler (T6)",
+            "Category": "category.machines.t5",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t6/boiler.png",
+            "Cost": 3000000,
+            "Shape": [
+                "EBBBE",
+                "#CDC#",
+                "#AAA#",
+                "##F##"
+            ],
+            "Parts": {
+                "#": "block.t5",
+                "A": "wire.t5",
+                "B": "plate.dense.t5",
+                "C": "motor.t5",
+                "D": "pump.t5",
+                "E": "screw.t5",
+                "F": "machine.boiler.t4"
+            }
+        },
+        "machine.boiler.t6": {
+            "Type": "recipe",
+            "Name": "machine.boiler.t6",
+            "DisplayName": "Boiler (T7)",
+            "Category": "category.machines.t6",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t7/boiler.png",
+            "Cost": 12000000,
+            "Shape": [
+                "EBBBE",
+                "#CDC#",
+                "#AAA#",
+                "##F##"
+            ],
+            "Parts": {
+                "#": "block.t6",
+                "A": "wire.t6",
+                "B": "plate.dense.t6",
+                "C": "motor.t6",
+                "D": "pump.t6",
+                "E": "screw.t6",
+                "F": "machine.boiler.t5"
+            }
+        },
+        "machine.boiler.t7": {
+            "Type": "recipe",
+            "Name": "machine.boiler.t7",
+            "DisplayName": "Boiler (T8)",
+            "Category": "category.machines.t7",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t8/boiler.png",
+            "Cost": 75000000,
+            "Shape": [
+                "EBBBE",
+                "#CDC#",
+                "#AAA#",
+                "##F##"
+            ],
+            "Parts": {
+                "#": "block.t7",
+                "A": "wire.t7",
+                "B": "plate.dense.t7",
+                "C": "motor.t7",
+                "D": "pump.t7",
+                "E": "screw.t7",
+                "F": "machine.boiler.t6"
+            }
+        },
+        "machine.boiler.t8": {
+            "Type": "recipe",
+            "Name": "machine.boiler.t8",
+            "DisplayName": "Boiler (T9)",
+            "Category": "category.machines.t8",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t9/boiler.png",
+            "Cost": 325000000,
+            "Shape": [
+                "EBBBBE",
+                "#CCDC#",
+                "#AAAA#",
+                "###F##"
+            ],
+            "Parts": {
+                "#": "block.t8",
+                "A": "wire.t8",
+                "B": "plate.dense.t8",
+                "C": "motor.t8",
+                "D": "pump.t8",
+                "E": "screw.t8",
+                "F": "machine.boiler.t7"
+            }
+        },
+        "machine.boiler.t9": {
+            "Type": "recipe",
+            "Name": "machine.boiler.t9",
+            "DisplayName": "Boiler (T10)",
+            "Category": "category.machines.t9",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t10/boiler.png",
+            "Cost": 2150000000,
+            "Shape": [
+                "EBBBBBE",
+                "#CCDCC#",
+                "#AAAAA#",
+                "###F###"
+            ],
+            "Parts": {
+                "#": "block.t9",
+                "A": "wire.t9",
+                "B": "plate.dense.t9",
+                "C": "motor.t9",
+                "D": "pump.t9",
+                "E": "screw.t9",
+                "F": "machine.boiler.t8"
+            }
+        },
+        "machine.crusher.t0": {
+            "Type": "recipe",
+            "Name": "machine.crusher.t0",
+            "DisplayName": "Crusher",
+            "Category": "category.machines.t0",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t1/crusher.png",
+            "Cost": 50,
+            "Shape": [
+                "#B#",
+                "#A#",
+                "###"
+            ],
+            "Parts": {
+                "#": "plate.dense.t0",
+                "A": "motor.t0",
+                "B": "chip.basic"
+            }
+        },
+        "machine.crusher.t1": {
+            "Type": "recipe",
+            "Name": "machine.crusher.t1",
+            "DisplayName": "Crusher (T2)",
+            "Category": "category.machines.t1",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t2/crusher.png",
+            "Cost": 200,
+            "Shape": [
+                "#BB#",
+                "#CA#",
+                "####"
+            ],
+            "Parts": {
+                "#": "plate.dense.t1",
+                "A": "motor.t1",
+                "B": "chip.basic",
+                "C": "machine.crusher.t0"
+            }
+        },
+        "machine.crusher.t2": {
+            "Type": "recipe",
+            "Name": "machine.crusher.t2",
+            "DisplayName": "Crusher (T3)",
+            "Category": "category.machines.t2",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t3/crusher.png",
+            "Cost": 1750,
+            "Shape": [
+                "#BB#",
+                "#CA#",
+                "####"
+            ],
+            "Parts": {
+                "#": "plate.dense.t2",
+                "A": "motor.t2",
+                "B": "chip.basic",
+                "C": "machine.crusher.t1"
+            }
+        },
+        "machine.crusher.t3": {
+            "Type": "recipe",
+            "Name": "machine.crusher.t3",
+            "DisplayName": "Crusher (T4)",
+            "Category": "category.machines.t3",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t4/crusher.png",
+            "Cost": 10000,
+            "Shape": [
+                "#BB#",
+                "#CA#",
+                "####"
+            ],
+            "Parts": {
+                "#": "plate.dense.t3",
+                "A": "motor.t3",
+                "B": "chip.advanced",
+                "C": "machine.crusher.t2"
+            }
+        },
+        "machine.crusher.t4": {
+            "Type": "recipe",
+            "Name": "machine.crusher.t4",
+            "DisplayName": "Crusher (T5)",
+            "Category": "category.machines.t4",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t5/crusher.png",
+            "Cost": 50000,
+            "Shape": [
+                "#BB#",
+                "#CA#",
+                "####"
+            ],
+            "Parts": {
+                "#": "plate.dense.t4",
+                "A": "motor.t4",
+                "B": "chip.advanced",
+                "C": "machine.crusher.t3"
+            }
+        },
+        "machine.crusher.t5": {
+            "Type": "recipe",
+            "Name": "machine.crusher.t5",
+            "DisplayName": "Crusher (T6)",
+            "Category": "category.machines.t5",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t6/crusher.png",
+            "Cost": 100000,
+            "Shape": [
+                "#BB#",
+                "#CA#",
+                "####"
+            ],
+            "Parts": {
+                "#": "plate.dense.t5",
+                "A": "motor.t5",
+                "B": "chip.advanced",
+                "C": "machine.crusher.t4"
+            }
+        },
+        "machine.crusher.t6": {
+            "Type": "recipe",
+            "Name": "machine.crusher.t6",
+            "DisplayName": "Crusher (T7)",
+            "Category": "category.machines.t6",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t7/crusher.png",
+            "Cost": 200000,
+            "Shape": [
+                "#BB#",
+                "#CA#",
+                "####"
+            ],
+            "Parts": {
+                "#": "plate.dense.t6",
+                "A": "motor.t6",
+                "B": "chip.advanced",
+                "C": "machine.crusher.t5"
+            }
+        },
+        "machine.crusher.t7": {
+            "Type": "recipe",
+            "Name": "machine.crusher.t7",
+            "DisplayName": "Crusher (T8)",
+            "Category": "category.machines.t7",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t8/crusher.png",
+            "Cost": 400000,
+            "Shape": [
+                "#BBB#",
+                "#ACA#",
+                "#####"
+            ],
+            "Parts": {
+                "#": "plate.dense.t7",
+                "A": "motor.t7",
+                "B": "chip.advanced",
+                "C": "machine.crusher.t6"
+            }
+        },
+        "machine.crusher.t8": {
+            "Type": "recipe",
+            "Name": "machine.crusher.t8",
+            "DisplayName": "Crusher (T9)",
+            "Category": "category.machines.t8",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t9/crusher.png",
+            "Cost": 2000000,
+            "Shape": [
+                "#BBB#",
+                "#ACA#",
+                "#####"
+            ],
+            "Parts": {
+                "#": "plate.dense.t8",
+                "A": "motor.t8",
+                "B": "chip.nano",
+                "C": "machine.crusher.t7"
+            }
+        },
+        "machine.crusher.t9": {
+            "Type": "recipe",
+            "Name": "machine.crusher.t9",
+            "DisplayName": "Crusher (T10)",
+            "Category": "category.machines.t9",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t10/crusher.png",
+            "Cost": 12000000,
+            "Shape": [
+                "#BBB#",
+                "#ACA#",
+                "#####"
+            ],
+            "Parts": {
+                "#": "plate.dense.t9",
+                "A": "motor.t9",
+                "B": "chip.nano",
+                "C": "machine.crusher.t8"
+            }
+        },
+        "machine.cutter.t0": {
+            "Type": "recipe",
+            "Name": "machine.cutter.t0",
+            "DisplayName": "Cutter",
+            "Category": "category.machines.t0",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t1/cutter.png",
+            "Cost": 175,
+            "Shape": [
+                "# #",
+                "BBB",
+                "CCC"
+            ],
+            "Parts": {
+                "#": "plate.t0",
+                "B": "motor.t0",
+                "C": "plate.dense.t0"
+            }
+        },
+        "machine.cutter.t1": {
+            "Type": "recipe",
+            "Name": "machine.cutter.t1",
+            "DisplayName": "Cutter (T2)",
+            "Category": "category.machines.t1",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t2/cutter.png",
+            "Cost": 300,
+            "Shape": [
+                "#  #",
+                "BBBB",
+                "CDCC"
+            ],
+            "Parts": {
+                "#": "plate.t1",
+                "B": "motor.t1",
+                "C": "plate.dense.t1",
+                "D": "machine.cutter.t0"
+            }
+        },
+        "machine.cutter.t2": {
+            "Type": "recipe",
+            "Name": "machine.cutter.t2",
+            "DisplayName": "Cutter (T3)",
+            "Category": "category.machines.t2",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t3/cutter.png",
+            "Cost": 2000,
+            "Shape": [
+                "#  #",
+                "BBBB",
+                "CDCC"
+            ],
+            "Parts": {
+                "#": "plate.t2",
+                "B": "motor.t2",
+                "C": "plate.dense.t2",
+                "D": "machine.cutter.t1"
+            }
+        },
+        "machine.cutter.t3": {
+            "Type": "recipe",
+            "Name": "machine.cutter.t3",
+            "DisplayName": "Cutter (T4)",
+            "Category": "category.machines.t3",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t4/cutter.png",
+            "Cost": 12000,
+            "Shape": [
+                "#  #",
+                "BBBB",
+                "CDCC"
+            ],
+            "Parts": {
+                "#": "plate.t3",
+                "B": "motor.t3",
+                "C": "plate.dense.t3",
+                "D": "machine.cutter.t2"
+            }
+        },
+        "machine.cutter.t4": {
+            "Type": "recipe",
+            "Name": "machine.cutter.t4",
+            "DisplayName": "Cutter (T5)",
+            "Category": "category.machines.t4",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t5/cutter.png",
+            "Cost": 50000,
+            "Shape": [
+                "#  #",
+                "BBBB",
+                "CDCC"
+            ],
+            "Parts": {
+                "#": "plate.t4",
+                "B": "motor.t4",
+                "C": "plate.dense.t4",
+                "D": "machine.cutter.t3"
+            }
+        },
+        "machine.cutter.t5": {
+            "Type": "recipe",
+            "Name": "machine.cutter.t5",
+            "DisplayName": "Cutter (T6)",
+            "Category": "category.machines.t5",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t6/cutter.png",
+            "Cost": 135000,
+            "Shape": [
+                "#   #",
+                "BBBBB",
+                "CCDCC"
+            ],
+            "Parts": {
+                "#": "plate.t5",
+                "B": "motor.t5",
+                "C": "plate.dense.t5",
+                "D": "machine.cutter.t4"
+            }
+        },
+        "machine.cutter.t6": {
+            "Type": "recipe",
+            "Name": "machine.cutter.t6",
+            "DisplayName": "Cutter (T7)",
+            "Category": "category.machines.t6",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t7/cutter.png",
+            "Cost": 500000,
+            "Shape": [
+                "#   #",
+                "BBBBB",
+                "CCDCC"
+            ],
+            "Parts": {
+                "#": "plate.t6",
+                "B": "motor.t6",
+                "C": "plate.dense.t6",
+                "D": "machine.cutter.t5"
+            }
+        },
+        "machine.cutter.t7": {
+            "Type": "recipe",
+            "Name": "machine.cutter.t7",
+            "DisplayName": "Cutter (T8)",
+            "Category": "category.machines.t7",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t8/cutter.png",
+            "Cost": 2000000,
+            "Shape": [
+                "#   #",
+                "BBBBB",
+                "CCDCC"
+            ],
+            "Parts": {
+                "#": "plate.dense.t7",
+                "B": "motor.t7",
+                "C": "block.t7",
+                "D": "machine.cutter.t6"
+            }
+        },
+        "machine.cutter.t8": {
+            "Type": "recipe",
+            "Name": "machine.cutter.t8",
+            "DisplayName": "Cutter (T9)",
+            "Category": "category.machines.t8",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t9/cutter.png",
+            "Cost": 5000000,
+            "Shape": [
+                "#   #",
+                "BBBBB",
+                "CCDCC"
+            ],
+            "Parts": {
+                "#": "plate.dense.t8",
+                "B": "motor.t8",
+                "C": "block.t8",
+                "D": "machine.cutter.t7"
+            }
+        },
+        "machine.cutter.t9": {
+            "Type": "recipe",
+            "Name": "machine.cutter.t9",
+            "DisplayName": "Cutter (T10)",
+            "Category": "category.machines.t9",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t10/cutter.png",
+            "Cost": 25000000,
+            "Shape": [
+                "#   #",
+                "BBBBBBB",
+                "CCCDCCC"
+            ],
+            "Parts": {
+                "#": "plate.dense.t9",
+                "B": "motor.t9",
+                "C": "block.t9",
+                "D": "machine.cutter.t8"
+            }
+        },
+        "machine.mixer.t0": {
+            "Type": "recipe",
+            "Name": "machine.mixer.t0",
+            "DisplayName": "Mixer",
+            "Category": "category.machines.t0",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t1/mixer.png",
+            "Cost": 250,
+            "Shape": [
+                "#B#",
+                "ACA",
+                "###"
+            ],
+            "Parts": {
+                "#": "plate.dense.t0",
+                "A": "motor.t0",
+                "B": "chip.basic",
+                "C": "pump.t0"
+            }
+        },
+        "machine.mixer.t1": {
+            "Type": "recipe",
+            "Name": "machine.mixer.t1",
+            "DisplayName": "Mixer (T2)",
+            "Category": "category.machines.t1",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t2/mixer.png",
+            "Cost": 750,
+            "Shape": [
+                "#B#",
+                "ACA",
+                "#D#"
+            ],
+            "Parts": {
+                "#": "plate.dense.t1",
+                "A": "motor.t1",
+                "B": "chip.basic",
+                "C": "pump.t1",
+                "D": "machine.mixer.t0"
+            }
+        },
+        "machine.mixer.t2": {
+            "Type": "recipe",
+            "Name": "machine.mixer.t2",
+            "DisplayName": "Mixer (T3)",
+            "Category": "category.machines.t2",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t3/mixer.png",
+            "Cost": 1500,
+            "Shape": [
+                "#B#",
+                "ACA",
+                "#D#"
+            ],
+            "Parts": {
+                "#": "plate.dense.t2",
+                "A": "motor.t2",
+                "B": "chip.basic",
+                "C": "pump.t2",
+                "D": "machine.mixer.t1"
+            }
+        },
+        "machine.mixer.t3": {
+            "Type": "recipe",
+            "Name": "machine.mixer.t3",
+            "DisplayName": "Mixer (T4)",
+            "Category": "category.machines.t3",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t4/mixer.png",
+            "Cost": 12000,
+            "Shape": [
+                "#BB#",
+                "ACCA",
+                "#D##"
+            ],
+            "Parts": {
+                "#": "plate.dense.t3",
+                "A": "motor.t3",
+                "B": "chip.advanced",
+                "C": "pump.t3",
+                "D": "machine.mixer.t2"
+            }
+        },
+        "machine.mixer.t4": {
+            "Type": "recipe",
+            "Name": "machine.mixer.t4",
+            "DisplayName": "Mixer (T5)",
+            "Category": "category.machines.t4",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t5/mixer.png",
+            "Cost": 80000,
+            "Shape": [
+                "#BB#",
+                "ACCA",
+                "#D##"
+            ],
+            "Parts": {
+                "#": "plate.dense.t4",
+                "A": "motor.t4",
+                "B": "chip.advanced",
+                "C": "pump.t4",
+                "D": "machine.mixer.t3"
+            }
+        },
+        "machine.mixer.t5": {
+            "Type": "recipe",
+            "Name": "machine.mixer.t5",
+            "DisplayName": "Mixer (T6)",
+            "Category": "category.machines.t5",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t6/mixer.png",
+            "Cost": 200000,
+            "Shape": [
+                "#BBB#",
+                "ACCCA",
+                "##D##"
+            ],
+            "Parts": {
+                "#": "plate.dense.t5",
+                "A": "motor.t5",
+                "B": "chip.advanced",
+                "C": "pump.t5",
+                "D": "machine.mixer.t4"
+            }
+        },
+        "machine.mixer.t6": {
+            "Type": "recipe",
+            "Name": "machine.mixer.t6",
+            "DisplayName": "Mixer (T7)",
+            "Category": "category.machines.t6",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t7/mixer.png",
+            "Cost": 450000,
+            "Shape": [
+                "#BBB#",
+                "ACCCA",
+                "##D##"
+            ],
+            "Parts": {
+                "#": "plate.dense.t6",
+                "A": "motor.t6",
+                "B": "chip.advanced",
+                "C": "pump.t6",
+                "D": "machine.mixer.t5"
+            }
+        },
+        "machine.mixer.t7": {
+            "Type": "recipe",
+            "Name": "machine.mixer.t7",
+            "DisplayName": "Mixer (T8)",
+            "Category": "category.machines.t7",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t8/mixer.png",
+            "Cost": 1000000,
+            "Shape": [
+                "#BBB#",
+                "ACCCA",
+                "##D##"
+            ],
+            "Parts": {
+                "#": "plate.dense.t7",
+                "A": "motor.t7",
+                "B": "chip.hitech",
+                "C": "pump.t7",
+                "D": "machine.mixer.t6"
+            }
+        },
+        "machine.mixer.t8": {
+            "Type": "recipe",
+            "Name": "machine.mixer.t8",
+            "DisplayName": "Mixer (T9)",
+            "Category": "category.machines.t8",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t9/mixer.png",
+            "Cost": 5000000,
+            "Shape": [
+                "#BBB#",
+                "ACCCA",
+                "##D##"
+            ],
+            "Parts": {
+                "#": "plate.dense.t8",
+                "A": "motor.t8",
+                "B": "chip.nano",
+                "C": "pump.t8",
+                "D": "machine.mixer.t7"
+            }
+        },
+        "machine.mixer.t9": {
+            "Type": "recipe",
+            "Name": "machine.mixer.t9",
+            "DisplayName": "Mixer (T10)",
+            "Category": "category.machines.t9",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t10/mixer.png",
+            "Cost": 25000000,
+            "Shape": [
+                "#BBB#",
+                "ACCCA",
+                "##D##"
+            ],
+            "Parts": {
+                "#": "plate.dense.t9",
+                "A": "motor.t9",
+                "B": "chip.nano",
+                "C": "pump.t9",
+                "D": "machine.mixer.t8"
+            }
+        },
+        "machine.oven.t0": {
+            "Type": "recipe",
+            "Name": "machine.oven.t0",
+            "DisplayName": "Oven",
+            "Category": "category.machines.t0",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t1/oven.png",
+            "Cost": 0,
+            "Shape": [
+                "##",
+                "##",
+                "AA"
+            ],
+            "Parts": {
+                "#": "plate.t0",
+                "A": "cable.insulated.t0"
+            }
+        },
+        "machine.oven.t1": {
+            "Type": "recipe",
+            "Name": "machine.oven.t1",
+            "DisplayName": "Oven (T2)",
+            "Category": "category.machines.t1",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t2/oven.png",
+            "Cost": 0,
+            "Shape": [
+                "###",
+                "###",
+                "ABA"
+            ],
+            "Parts": {
+                "#": "plate.t1",
+                "A": "cable.insulated.t1",
+                "B": "machine.oven.t0"
+            }
+        },
+        "machine.oven.t2": {
+            "Type": "recipe",
+            "Name": "machine.oven.t2",
+            "DisplayName": "Oven (T3)",
+            "Category": "category.machines.t2",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t3/oven.png",
+            "Cost": 120,
+            "Shape": [
+                "####",
+                "####",
+                "ABAA"
+            ],
+            "Parts": {
+                "#": "plate.t2",
+                "A": "cable.insulated.t2",
+                "B": "machine.oven.t1"
+            }
+        },
+        "machine.oven.t3": {
+            "Type": "recipe",
+            "Name": "machine.oven.t3",
+            "DisplayName": "Oven (T4)",
+            "Category": "category.machines.t3",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t4/oven.png",
+            "Cost": 5000,
+            "Shape": [
+                "####",
+                "####",
+                "ABAA"
+            ],
+            "Parts": {
+                "#": "plate.t3",
+                "A": "cable.insulated.t3",
+                "B": "machine.oven.t2"
+            }
+        },
+        "machine.oven.t4": {
+            "Type": "recipe",
+            "Name": "machine.oven.t4",
+            "DisplayName": "Oven (T5)",
+            "Category": "category.machines.t4",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t5/oven.png",
+            "Cost": 30000,
+            "Shape": [
+                "####",
+                "####",
+                "ABAA"
+            ],
+            "Parts": {
+                "#": "plate.t4",
+                "A": "cable.insulated.t4",
+                "B": "machine.oven.t3"
+            }
+        },
+        "machine.oven.t5": {
+            "Type": "recipe",
+            "Name": "machine.oven.t5",
+            "DisplayName": "Oven (T6)",
+            "Category": "category.machines.t5",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t6/oven.png",
+            "Cost": 50000,
+            "Shape": [
+                "##C##",
+                "##C##",
+                "AABAA"
+            ],
+            "Parts": {
+                "#": "plate.t5",
+                "A": "cable.insulated.t5",
+                "B": "machine.oven.t4",
+                "C": "block.t5"
+            }
+        },
+        "machine.oven.t6": {
+            "Type": "recipe",
+            "Name": "machine.oven.t6",
+            "DisplayName": "Oven (T7)",
+            "Category": "category.machines.t6",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t7/oven.png",
+            "Cost": 175000,
+            "Shape": [
+                "##C##",
+                "##C##",
+                "AABAA"
+            ],
+            "Parts": {
+                "#": "plate.t6",
+                "A": "cable.insulated.t6",
+                "B": "machine.oven.t5",
+                "C": "block.t6"
+            }
+        },
+        "machine.oven.t7": {
+            "Type": "recipe",
+            "Name": "machine.oven.t7",
+            "DisplayName": "Oven (T8)",
+            "Category": "category.machines.t7",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t8/oven.png",
+            "Cost": 1000000,
+            "Shape": [
+                "##C##",
+                "##C##",
+                "AABAA"
+            ],
+            "Parts": {
+                "#": "plate.t7",
+                "A": "cable.insulated.t7",
+                "B": "machine.oven.t6",
+                "C": "block.t7"
+            }
+        },
+        "machine.oven.t8": {
+            "Type": "recipe",
+            "Name": "machine.oven.t8",
+            "DisplayName": "Oven (T9)",
+            "Category": "category.machines.t8",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t9/oven.png",
+            "Cost": 5000000,
+            "Shape": [
+                "##C##",
+                "##C##",
+                "AABAA"
+            ],
+            "Parts": {
+                "#": "plate.t8",
+                "A": "cable.insulated.t8",
+                "B": "machine.oven.t7",
+                "C": "block.t8"
+            }
+        },
+        "machine.oven.t9": {
+            "Type": "recipe",
+            "Name": "machine.oven.t9",
+            "DisplayName": "Oven (T10)",
+            "Category": "category.machines.t9",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t10/oven.png",
+            "Cost": 50000000,
+            "Shape": [
+                "##C##",
+                "##C##",
+                "AABAA"
+            ],
+            "Parts": {
+                "#": "plate.t9",
+                "A": "cable.insulated.t9",
+                "B": "machine.oven.t8",
+                "C": "block.t9"
+            }
+        },
+        "machine.presser.t0": {
+            "Type": "recipe",
+            "Name": "machine.presser.t0",
+            "DisplayName": "Presser",
+            "Category": "category.machines.t0",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t1/presser.png",
+            "Cost": 0,
+            "Shape": [
+                "#C#",
+                "ABA",
+                "#C#"
+            ],
+            "Parts": {
+                "#": "plate.t0",
+                "A": "chip.basic",
+                "B": "wire.t0",
+                "C": "hammer"
+            }
+        },
+        "machine.presser.t1": {
+            "Type": "recipe",
+            "Name": "machine.presser.t1",
+            "DisplayName": "Presser (T2)",
+            "Category": "category.machines.t1",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t2/presser.png",
+            "Cost": 120,
+            "Shape": [
+                "###",
+                "ABA",
+                "#C#"
+            ],
+            "Parts": {
+                "#": "plate.t1",
+                "A": "chip.basic",
+                "B": "wire.t1",
+                "C": "machine.presser.t0"
+            }
+        },
+        "machine.presser.t2": {
+            "Type": "recipe",
+            "Name": "machine.presser.t2",
+            "DisplayName": "Presser (T3)",
+            "Category": "category.machines.t2",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t3/presser.png",
+            "Cost": 2000,
+            "Shape": [
+                "####",
+                "ABBA",
+                "#C##"
+            ],
+            "Parts": {
+                "#": "plate.t2",
+                "A": "chip.basic",
+                "B": "wire.t2",
+                "C": "machine.presser.t1"
+            }
+        },
+        "machine.presser.t3": {
+            "Type": "recipe",
+            "Name": "machine.presser.t3",
+            "DisplayName": "Presser (T4)",
+            "Category": "category.machines.t3",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t4/presser.png",
+            "Cost": 7500,
+            "Shape": [
+                "####",
+                "ABBA",
+                "#C##"
+            ],
+            "Parts": {
+                "#": "plate.t3",
+                "A": "chip.advanced",
+                "B": "wire.t3",
+                "C": "machine.presser.t2"
+            }
+        },
+        "machine.presser.t4": {
+            "Type": "recipe",
+            "Name": "machine.presser.t4",
+            "DisplayName": "Presser (T5)",
+            "Category": "category.machines.t4",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t5/presser.png",
+            "Cost": 65000,
+            "Shape": [
+                "####",
+                "ABBA",
+                "#C##",
+                "$$$$"
+            ],
+            "Parts": {
+                "#": "plate.t4",
+                "$": "block.t4",
+                "A": "chip.advanced",
+                "B": "wire.t4",
+                "C": "machine.presser.t3"
+            }
+        },
+        "machine.presser.t5": {
+            "Type": "recipe",
+            "Name": "machine.presser.t5",
+            "DisplayName": "Presser (T6)",
+            "Category": "category.machines.t5",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t6/presser.png",
+            "Cost": 110000,
+            "Shape": [
+                "#####",
+                "ABBBA",
+                "##C##",
+                "$$$$$"
+            ],
+            "Parts": {
+                "#": "plate.t5",
+                "$": "block.t5",
+                "A": "chip.advanced",
+                "B": "wire.t5",
+                "C": "machine.presser.t4"
+            }
+        },
+        "machine.presser.t6": {
+            "Type": "recipe",
+            "Name": "machine.presser.t6",
+            "DisplayName": "Presser (T7)",
+            "Category": "category.machines.t6",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t7/presser.png",
+            "Cost": 300000,
+            "Shape": [
+                "#####",
+                "ABBBA",
+                "##C##",
+                "$$$$$"
+            ],
+            "Parts": {
+                "#": "plate.t6",
+                "$": "block.t6",
+                "A": "chip.hitech",
+                "B": "wire.t6",
+                "C": "machine.presser.t5"
+            }
+        },
+        "machine.presser.t7": {
+            "Type": "recipe",
+            "Name": "machine.presser.t7",
+            "DisplayName": "Presser (T8)",
+            "Category": "category.machines.t7",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t8/presser.png",
+            "Cost": 500000,
+            "Shape": [
+                "#####",
+                "ABBBA",
+                "##C##",
+                "$$$$$"
+            ],
+            "Parts": {
+                "#": "plate.t7",
+                "$": "block.t7",
+                "A": "chip.hitech",
+                "B": "wire.t7",
+                "C": "machine.presser.t6"
+            }
+        },
+        "machine.presser.t8": {
+            "Type": "recipe",
+            "Name": "machine.presser.t8",
+            "DisplayName": "Presser (T9)",
+            "Category": "category.machines.t8",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t9/presser.png",
+            "Cost": 3000000,
+            "Shape": [
+                "#####",
+                "ABBBA",
+                "##C##",
+                "$$$$$"
+            ],
+            "Parts": {
+                "#": "plate.t8",
+                "$": "block.t8",
+                "A": "chip.nano",
+                "B": "wire.t8",
+                "C": "machine.presser.t7"
+            }
+        },
+        "machine.presser.t9": {
+            "Type": "recipe",
+            "Name": "machine.presser.t9",
+            "DisplayName": "Presser (T10)",
+            "Category": "category.machines.t9",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t10/presser.png",
+            "Cost": 15000000,
+            "Shape": [
+                "#####",
+                "ABBBA",
+                "##C##",
+                "$$$$$"
+            ],
+            "Parts": {
+                "#": "plate.t9",
+                "$": "block.t9",
+                "A": "chip.nano",
+                "B": "wire.t9",
+                "C": "machine.presser.t8"
+            }
+        },
+        "machine.refinery.t0": {
+            "Type": "recipe",
+            "Name": "machine.refinery.t0",
+            "DisplayName": "Refiner",
+            "Category": "category.machines.t0",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t1/refiner.png",
+            "Cost": 150,
+            "Shape": [
+                "#C#",
+                "BAB",
+                "#D#"
+            ],
+            "Parts": {
+                "#": "plate.dense.t0",
+                "A": "motor.t0",
+                "B": "chip.basic",
+                "C": "pump.t0",
+                "D": "ring.t0"
+            }
+        },
+        "machine.refinery.t1": {
+            "Type": "recipe",
+            "Name": "machine.refinery.t1",
+            "DisplayName": "Refiner (T2)",
+            "Category": "category.machines.t1",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t2/refiner.png",
+            "Cost": 2500,
+            "Shape": [
+                "#CC#",
+                "BAEB",
+                "#DD#"
+            ],
+            "Parts": {
+                "#": "plate.dense.t1",
+                "A": "motor.t1",
+                "B": "chip.basic",
+                "C": "pump.t1",
+                "D": "ring.t1",
+                "E": "machine.refinery.t0"
+            }
+        },
+        "machine.refinery.t2": {
+            "Type": "recipe",
+            "Name": "machine.refinery.t2",
+            "DisplayName": "Refiner (T3)",
+            "Category": "category.machines.t2",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t3/refiner.png",
+            "Cost": 15000,
+            "Shape": [
+                "#CC#",
+                "BAEB",
+                "#DD#"
+            ],
+            "Parts": {
+                "#": "plate.dense.t2",
+                "A": "motor.t2",
+                "B": "chip.advanced",
+                "C": "pump.t2",
+                "D": "ring.t2",
+                "E": "machine.refinery.t1"
+            }
+        },
+        "machine.refinery.t3": {
+            "Type": "recipe",
+            "Name": "machine.refinery.t3",
+            "DisplayName": "Refiner (T4)",
+            "Category": "category.machines.t3",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t4/refiner.png",
+            "Cost": 75000,
+            "Shape": [
+                "#CC#",
+                "BAEB",
+                "#DD#"
+            ],
+            "Parts": {
+                "#": "plate.dense.t3",
+                "A": "motor.t3",
+                "B": "chip.advanced",
+                "C": "pump.t3",
+                "D": "ring.t3",
+                "E": "machine.refinery.t2"
+            }
+        },
+        "machine.refinery.t4": {
+            "Type": "recipe",
+            "Name": "machine.refinery.t4",
+            "DisplayName": "Refiner (T5)",
+            "Category": "category.machines.t4",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t5/refiner.png",
+            "Cost": 125000,
+            "Shape": [
+                "#CCC#",
+                "BAEAB",
+                "#DDD#"
+            ],
+            "Parts": {
+                "#": "plate.dense.t4",
+                "A": "motor.t4",
+                "B": "chip.advanced",
+                "C": "pump.t4",
+                "D": "ring.t4",
+                "E": "machine.refinery.t3"
+            }
+        },
+        "machine.refinery.t5": {
+            "Type": "recipe",
+            "Name": "machine.refinery.t5",
+            "DisplayName": "Refiner (T6)",
+            "Category": "category.machines.t5",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t6/refiner.png",
+            "Cost": 600000,
+            "Shape": [
+                "#CCC#",
+                "BAEAB",
+                "#DDD#"
+            ],
+            "Parts": {
+                "#": "plate.dense.t5",
+                "A": "motor.t5",
+                "B": "chip.advanced",
+                "C": "pump.t5",
+                "D": "ring.t5",
+                "E": "machine.refinery.t4"
+            }
+        },
+        "machine.refinery.t6": {
+            "Type": "recipe",
+            "Name": "machine.refinery.t6",
+            "DisplayName": "Refiner (T7)",
+            "Category": "category.machines.t6",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t7/refiner.png",
+            "Cost": 1200000,
+            "Shape": [
+                "#CCC#",
+                "BAEAB",
+                "#DDD#",
+                "$$$$$"
+            ],
+            "Parts": {
+                "#": "plate.dense.t6",
+                "$": "block.t6",
+                "A": "motor.t6",
+                "B": "chip.hitech",
+                "C": "pump.t6",
+                "D": "ring.t6",
+                "E": "machine.refinery.t5"
+            }
+        },
+        "machine.refinery.t7": {
+            "Type": "recipe",
+            "Name": "machine.refinery.t7",
+            "DisplayName": "Refiner (T8)",
+            "Category": "category.machines.t7",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t8/refiner.png",
+            "Cost": 6000000,
+            "Shape": [
+                "#CCC#",
+                "BAEAB",
+                "#DDD#",
+                "$$$$$"
+            ],
+            "Parts": {
+                "#": "plate.dense.t7",
+                "$": "block.t7",
+                "A": "motor.t7",
+                "B": "chip.nano",
+                "C": "pump.t7",
+                "D": "ring.t7",
+                "E": "machine.refinery.t6"
+            }
+        },
+        "machine.refinery.t8": {
+            "Type": "recipe",
+            "Name": "machine.refinery.t8",
+            "DisplayName": "Refiner (T9)",
+            "Category": "category.machines.t8",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t9/refiner.png",
+            "Cost": 150000000,
+            "Shape": [
+                "#CCC#",
+                "BAEAB",
+                "#DDD#",
+                "$$$$$"
+            ],
+            "Parts": {
+                "#": "plate.dense.t8",
+                "$": "block.t8",
+                "A": "motor.t8",
+                "B": "chip.nano",
+                "C": "pump.t8",
+                "D": "ring.t8",
+                "E": "machine.refinery.t7"
+            }
+        },
+        "machine.refinery.t9": {
+            "Type": "recipe",
+            "Name": "machine.refinery.t9",
+            "DisplayName": "Refiner (T10)",
+            "Category": "category.machines.t9",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t10/refiner.png",
+            "Cost": 1250000000,
+            "Shape": [
+                "#CCCCC#",
+                "BAAEAAB",
+                "#DDDDD#",
+                "$$$$$$$"
+            ],
+            "Parts": {
+                "#": "plate.dense.t9",
+                "$": "block.t9",
+                "A": "motor.t9",
+                "B": "chip.quantum",
+                "C": "pump.t9",
+                "D": "ring.t9",
+                "E": "machine.refinery.t8"
+            }
+        },
+        "machine.shaper.t0": {
+            "Type": "recipe",
+            "Name": "machine.shaper.t0",
+            "DisplayName": "Shaper",
+            "Category": "category.machines.t0",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t1/shaper.png",
+            "Cost": 300,
+            "Shape": [
+                "#A#",
+                "BCB",
+                "#D#"
+            ],
+            "Parts": {
+                "#": "plate.t0",
+                "A": "screw.t0",
+                "B": "motor.t0",
+                "C": "block.t0",
+                "D": "cable.insulated.t0"
+            }
+        },
+        "machine.shaper.t1": {
+            "Type": "recipe",
+            "Name": "machine.shaper.t1",
+            "DisplayName": "Shaper (T2)",
+            "Category": "category.machines.t1",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t2/shaper.png",
+            "Cost": 1000,
+            "Shape": [
+                "#AA#",
+                "BCCB",
+                "#ED#"
+            ],
+            "Parts": {
+                "#": "plate.t1",
+                "A": "screw.t1",
+                "B": "motor.t1",
+                "C": "block.t1",
+                "D": "cable.insulated.t1",
+                "E": "machine.shaper.t0"
+            }
+        },
+        "machine.shaper.t2": {
+            "Type": "recipe",
+            "Name": "machine.shaper.t2",
+            "DisplayName": "Shaper (T3)",
+            "Category": "category.machines.t2",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t3/shaper.png",
+            "Cost": 8000,
+            "Shape": [
+                "#AA#",
+                "BCCB",
+                "#ED#"
+            ],
+            "Parts": {
+                "#": "plate.t2",
+                "A": "screw.t2",
+                "B": "motor.t2",
+                "C": "block.t2",
+                "D": "cable.insulated.t2",
+                "E": "machine.shaper.t1"
+            }
+        },
+        "machine.shaper.t3": {
+            "Type": "recipe",
+            "Name": "machine.shaper.t3",
+            "DisplayName": "Shaper (T4)",
+            "Category": "category.machines.t3",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t4/shaper.png",
+            "Cost": 30000,
+            "Shape": [
+                "#AA#",
+                "BCCB",
+                "#ED#"
+            ],
+            "Parts": {
+                "#": "plate.t3",
+                "A": "screw.t3",
+                "B": "motor.t3",
+                "C": "block.t3",
+                "D": "cable.insulated.t3",
+                "E": "machine.shaper.t2"
+            }
+        },
+        "machine.shaper.t4": {
+            "Type": "recipe",
+            "Name": "machine.shaper.t4",
+            "DisplayName": "Shaper (T5)",
+            "Category": "category.machines.t4",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t5/shaper.png",
+            "Cost": 150000,
+            "Shape": [
+                "#AA#",
+                "BCCB",
+                "#ED#"
+            ],
+            "Parts": {
+                "#": "plate.t4",
+                "A": "screw.t4",
+                "B": "motor.t4",
+                "C": "block.t4",
+                "D": "cable.insulated.t4",
+                "E": "machine.shaper.t3"
+            }
+        },
+        "machine.shaper.t5": {
+            "Type": "recipe",
+            "Name": "machine.shaper.t5",
+            "DisplayName": "Shaper (T6)",
+            "Category": "category.machines.t5",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t6/shaper.png",
+            "Cost": 625000,
+            "Shape": [
+                "#AAA#",
+                "BCCCB",
+                "#DED#"
+            ],
+            "Parts": {
+                "#": "plate.t5",
+                "A": "screw.t5",
+                "B": "motor.t5",
+                "C": "block.t5",
+                "D": "cable.insulated.t5",
+                "E": "machine.shaper.t4"
+            }
+        },
+        "machine.shaper.t6": {
+            "Type": "recipe",
+            "Name": "machine.shaper.t6",
+            "DisplayName": "Shaper (T7)",
+            "Category": "category.machines.t6",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t7/shaper.png",
+            "Cost": 2000000,
+            "Shape": [
+                "#AAA#",
+                "BCCCB",
+                "#DED#"
+            ],
+            "Parts": {
+                "#": "plate.t6",
+                "A": "screw.t6",
+                "B": "motor.t6",
+                "C": "block.t6",
+                "D": "cable.insulated.t6",
+                "E": "machine.shaper.t5"
+            }
+        },
+        "machine.shaper.t7": {
+            "Type": "recipe",
+            "Name": "machine.shaper.t7",
+            "DisplayName": "Shaper (T8)",
+            "Category": "category.machines.t7",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t8/shaper.png",
+            "Cost": 5000000,
+            "Shape": [
+                "#AAA#",
+                "BCCCB",
+                "#DED#"
+            ],
+            "Parts": {
+                "#": "plate.t7",
+                "A": "screw.t7",
+                "B": "motor.t7",
+                "C": "block.t7",
+                "D": "cable.insulated.t7",
+                "E": "machine.shaper.t6"
+            }
+        },
+        "machine.shaper.t8": {
+            "Type": "recipe",
+            "Name": "machine.shaper.t8",
+            "DisplayName": "Shaper (T9)",
+            "Category": "category.machines.t8",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t9/shaper.png",
+            "Cost": 15000000,
+            "Shape": [
+                "#AAA#",
+                "BCCCB",
+                "#DED#"
+            ],
+            "Parts": {
+                "#": "plate.t8",
+                "A": "screw.t8",
+                "B": "motor.t8",
+                "C": "block.t8",
+                "D": "cable.insulated.t8",
+                "E": "machine.shaper.t7"
+            }
+        },
+        "machine.shaper.t9": {
+            "Type": "recipe",
+            "Name": "machine.shaper.t9",
+            "DisplayName": "Shaper (T10)",
+            "Category": "category.machines.t9",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t10/shaper.png",
+            "Cost": 95000000,
+            "Shape": [
+                "#AAA#",
+                "BCCCCCB",
+                "#DDEDD#"
+            ],
+            "Parts": {
+                "#": "plate.dense.t9",
+                "A": "screw.t9",
+                "B": "motor.t9",
+                "C": "block.dense.t9",
+                "D": "cable.insulated.t9",
+                "E": "machine.shaper.t8"
+            }
+        },
+        "machine.transportbelt.t0": {
+            "Type": "recipe",
+            "Name": "machine.transportbelt.t0",
+            "DisplayName": "Belt",
+            "Category": "category.machines.t0",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t1/belt.png",
+            "Cost": 10,
+            "Shape": [
+                "###",
+                "AAA",
+                "BBB"
+            ],
+            "Parts": {
+                "#": "rubber",
+                "A": "motor.t0",
+                "B": "cable.insulated.t0"
+            }
+        },
+        "machine.transportbelt.t1": {
+            "Type": "recipe",
+            "Name": "machine.transportbelt.t1",
+            "DisplayName": "Belt (T2)",
+            "Category": "category.machines.t1",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t2/belt.png",
+            "Cost": 400,
+            "Shape": [
+                "####",
+                "ACAA",
+                "BBBB"
+            ],
+            "Parts": {
+                "#": "rubber",
+                "A": "motor.t1",
+                "B": "cable.insulated.t1",
+                "C": "machine.transportbelt.t0"
+            }
+        },
+        "machine.transportbelt.t2": {
+            "Type": "recipe",
+            "Name": "machine.transportbelt.t2",
+            "DisplayName": "Belt (T3)",
+            "Category": "category.machines.t2",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t3/belt.png",
+            "Cost": 2500,
+            "Shape": [
+                "####",
+                "ACAA",
+                "BBBB"
+            ],
+            "Parts": {
+                "#": "rubber",
+                "A": "motor.t2",
+                "B": "cable.insulated.t2",
+                "C": "machine.transportbelt.t1"
+            }
+        },
+        "machine.transportbelt.t3": {
+            "Type": "recipe",
+            "Name": "machine.transportbelt.t3",
+            "DisplayName": "Belt (T4)",
+            "Category": "category.machines.t3",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t4/belt.png",
+            "Cost": 15000,
+            "Shape": [
+                "####",
+                "ACAA",
+                "DDDD",
+                "BBBB"
+            ],
+            "Parts": {
+                "#": "rubber",
+                "A": "motor.t3",
+                "B": "cable.insulated.t3",
+                "C": "machine.transportbelt.t2",
+                "D": "chip.basic"
+            }
+        },
+        "machine.transportbelt.t4": {
+            "Type": "recipe",
+            "Name": "machine.transportbelt.t4",
+            "DisplayName": "Belt (T5)",
+            "Category": "category.machines.t4",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t5/belt.png",
+            "Cost": 75000,
+            "Shape": [
+                "####",
+                "ACAA",
+                "DDDD",
+                "BBBB"
+            ],
+            "Parts": {
+                "#": "rubber",
+                "A": "motor.t4",
+                "B": "cable.insulated.t4",
+                "C": "machine.transportbelt.t3",
+                "D": "chip.advanced"
+            }
+        },
+        "machine.transportbelt.t5": {
+            "Type": "recipe",
+            "Name": "machine.transportbelt.t5",
+            "DisplayName": "Belt (T6)",
+            "Category": "category.machines.t5",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t6/belt.png",
+            "Cost": 225000,
+            "Shape": [
+                "####",
+                "ACAA",
+                "DDDD",
+                "BBBB"
+            ],
+            "Parts": {
+                "#": "plate.rubber",
+                "A": "motor.t5",
+                "B": "cable.insulated.t5",
+                "C": "machine.transportbelt.t4",
+                "D": "chip.advanced"
+            }
+        },
+        "machine.transportbelt.t6": {
+            "Type": "recipe",
+            "Name": "machine.transportbelt.t6",
+            "DisplayName": "Belt (T7)",
+            "Category": "category.machines.t6",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t7/belt.png",
+            "Cost": 500000,
+            "Shape": [
+                "#####",
+                "AACAA",
+                "DDDDD",
+                "BBBBB"
+            ],
+            "Parts": {
+                "#": "plate.rubber",
+                "A": "motor.t6",
+                "B": "cable.insulated.t6",
+                "C": "machine.transportbelt.t5",
+                "D": "chip.hitech"
+            }
+        },
+        "machine.transportbelt.t7": {
+            "Type": "recipe",
+            "Name": "machine.transportbelt.t7",
+            "DisplayName": "Belt (T8)",
+            "Category": "category.machines.t7",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t8/belt.png",
+            "Cost": 950000,
+            "Shape": [
+                "#####",
+                "AACAA",
+                "DDDDD",
+                "BBBBB"
+            ],
+            "Parts": {
+                "#": "plate.rubber",
+                "A": "motor.t7",
+                "B": "cable.insulated.t7",
+                "C": "machine.transportbelt.t6",
+                "D": "chip.hitech"
+            }
+        },
+        "machine.transportbelt.t8": {
+            "Type": "recipe",
+            "Name": "machine.transportbelt.t8",
+            "DisplayName": "Belt (T9)",
+            "Category": "category.machines.t8",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t9/belt.png",
+            "Cost": 3000000,
+            "Shape": [
+                "#####",
+                "AACAA",
+                "DDDDD",
+                "BBBBB"
+            ],
+            "Parts": {
+                "#": "plate.rubber",
+                "A": "motor.t8",
+                "B": "cable.insulated.t8",
+                "C": "machine.transportbelt.t7",
+                "D": "chip.nano"
+            }
+        },
+        "machine.transportbelt.t9": {
+            "Type": "recipe",
+            "Name": "machine.transportbelt.t9",
+            "DisplayName": "Belt (T10)",
+            "Category": "category.machines.t9",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/machines/t10/belt.png",
+            "Cost": 50000000,
+            "Shape": [
+                "#####",
+                "AACAA",
+                "DDDDD",
+                "BBBBB"
+            ],
+            "Parts": {
+                "#": "plate.rubber",
+                "A": "motor.t9",
+                "B": "cable.insulated.t9",
+                "C": "machine.transportbelt.t8",
+                "D": "chip.nano"
+            }
+        },
+        "motor.t0": {
+            "Type": "recipe",
+            "Name": "motor.t0",
+            "DisplayName": "Motor",
+            "Category": "category.parts.t0",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t1/motor.png",
+            "Cost": 0,
+            "Shape": [
+                "#C#",
+                "BAB",
+                "#D#"
+            ],
+            "Parts": {
+                "#": "plate.t0",
+                "A": "wire.t0",
+                "B": "rod.t0",
+                "C": "screw.t0",
+                "D": "rubber"
+            }
+        },
+        "motor.t1": {
+            "Type": "recipe",
+            "Name": "motor.t1",
+            "DisplayName": "Motor (T2)",
+            "Category": "category.parts.t1",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t2/motor.png",
+            "Cost": 25,
+            "Shape": [
+                "#C#",
+                "BAB",
+                "#D#"
+            ],
+            "Parts": {
+                "#": "plate.t1",
+                "A": "wire.t1",
+                "B": "rod.t1",
+                "C": "screw.t1",
+                "D": "rubber"
+            }
+        },
+        "motor.t2": {
+            "Type": "recipe",
+            "Name": "motor.t2",
+            "DisplayName": "Motor (T3)",
+            "Category": "category.parts.t2",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t3/motor.png",
+            "Cost": 250,
+            "Shape": [
+                "#C#",
+                "BAB",
+                "#D#"
+            ],
+            "Parts": {
+                "#": "plate.t2",
+                "A": "wire.t2",
+                "B": "rod.t2",
+                "C": "screw.t2",
+                "D": "rubber"
+            }
+        },
+        "motor.t3": {
+            "Type": "recipe",
+            "Name": "motor.t3",
+            "DisplayName": "Motor (T4)",
+            "Category": "category.parts.t3",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t4/motor.png",
+            "Cost": 1875,
+            "Shape": [
+                "#C#",
+                "BAB",
+                "#D#"
+            ],
+            "Parts": {
+                "#": "plate.t3",
+                "A": "wire.t3",
+                "B": "rod.t3",
+                "C": "screw.t3",
+                "D": "rubber"
+            }
+        },
+        "motor.t4": {
+            "Type": "recipe",
+            "Name": "motor.t4",
+            "DisplayName": "Motor (T5)",
+            "Category": "category.parts.t4",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t5/motor.png",
+            "Cost": 12500,
+            "Shape": [
+                "#C#",
+                "BAB",
+                "#D#"
+            ],
+            "Parts": {
+                "#": "plate.t4",
+                "A": "wire.t4",
+                "B": "rod.t4",
+                "C": "screw.t4",
+                "D": "rubber"
+            }
+        },
+        "motor.t5": {
+            "Type": "recipe",
+            "Name": "motor.t5",
+            "DisplayName": "Motor (T6)",
+            "Category": "category.parts.t5",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t6/motor.png",
+            "Cost": 78125,
+            "Shape": [
+                "#C#",
+                "BAB",
+                "#D#"
+            ],
+            "Parts": {
+                "#": "plate.t5",
+                "A": "wire.t5",
+                "B": "rod.t5",
+                "C": "screw.t5",
+                "D": "rubber"
+            }
+        },
+        "motor.t6": {
+            "Type": "recipe",
+            "Name": "motor.t6",
+            "DisplayName": "Motor (T7)",
+            "Category": "category.parts.t6",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t7/motor.png",
+            "Cost": 468750,
+            "Shape": [
+                "#C#",
+                "BAB",
+                "#D#"
+            ],
+            "Parts": {
+                "#": "plate.t6",
+                "A": "wire.t6",
+                "B": "rod.t6",
+                "C": "screw.t6",
+                "D": "rubber"
+            }
+        },
+        "motor.t7": {
+            "Type": "recipe",
+            "Name": "motor.t7",
+            "DisplayName": "Motor (T8)",
+            "Category": "category.parts.t7",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t8/motor.png",
+            "Cost": 2734375,
+            "Shape": [
+                "#C#",
+                "BAB",
+                "#D#"
+            ],
+            "Parts": {
+                "#": "plate.t7",
+                "A": "wire.t7",
+                "B": "rod.t7",
+                "C": "screw.t7",
+                "D": "rubber"
+            }
+        },
+        "motor.t8": {
+            "Type": "recipe",
+            "Name": "motor.t8",
+            "DisplayName": "Motor (T9)",
+            "Category": "category.parts.t8",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t9/motor.png",
+            "Cost": 15625000,
+            "Shape": [
+                "#C#",
+                "BAB",
+                "#D#"
+            ],
+            "Parts": {
+                "#": "plate.t8",
+                "A": "wire.t8",
+                "B": "rod.t8",
+                "C": "screw.t8",
+                "D": "rubber"
+            }
+        },
+        "motor.t9": {
+            "Type": "recipe",
+            "Name": "motor.t9",
+            "DisplayName": "Motor (T10)",
+            "Category": "category.parts.t9",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t10/motor.png",
+            "Cost": 87890625,
+            "Shape": [
+                "#C#",
+                "BAB",
+                "#D#"
+            ],
+            "Parts": {
+                "#": "plate.t9",
+                "A": "wire.t9",
+                "B": "rod.t9",
+                "C": "screw.t9",
+                "D": "rubber"
+            }
+        },
+        "pipe.t0": {
+            "Type": "machine",
+            "Name": "pipe.t0",
+            "DisplayName": "Pipe",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t1/pipe.png",
+            "Source": "plate.t0",
+            "Machine": "machine.shaper.t0",
+            "Produced": 1
+        },
+        "pipe.t1": {
+            "Type": "machine",
+            "Name": "pipe.t1",
+            "DisplayName": "Pipe (T2)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t2/pipe.png",
+            "Source": "plate.t1",
+            "Machine": "machine.shaper.t1",
+            "Produced": 1
+        },
+        "pipe.t2": {
+            "Type": "machine",
+            "Name": "pipe.t2",
+            "DisplayName": "Pipe (T3)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t3/pipe.png",
+            "Source": "plate.t2",
+            "Machine": "machine.shaper.t2",
+            "Produced": 1
+        },
+        "pipe.t3": {
+            "Type": "machine",
+            "Name": "pipe.t3",
+            "DisplayName": "Pipe (T4)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t4/pipe.png",
+            "Source": "plate.t3",
+            "Machine": "machine.shaper.t3",
+            "Produced": 1
+        },
+        "pipe.t4": {
+            "Type": "machine",
+            "Name": "pipe.t4",
+            "DisplayName": "Pipe (T5)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t5/pipe.png",
+            "Source": "plate.t4",
+            "Machine": "machine.shaper.t4",
+            "Produced": 1
+        },
+        "pipe.t5": {
+            "Type": "machine",
+            "Name": "pipe.t5",
+            "DisplayName": "Pipe (T6)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t6/pipe.png",
+            "Source": "plate.t5",
+            "Machine": "machine.shaper.t5",
+            "Produced": 1
+        },
+        "pipe.t6": {
+            "Type": "machine",
+            "Name": "pipe.t6",
+            "DisplayName": "Pipe (T7)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t7/pipe.png",
+            "Source": "plate.t6",
+            "Machine": "machine.shaper.t6",
+            "Produced": 1
+        },
+        "pipe.t7": {
+            "Type": "machine",
+            "Name": "pipe.t7",
+            "DisplayName": "Pipe (T8)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t8/pipe.png",
+            "Source": "plate.t7",
+            "Machine": "machine.shaper.t7",
+            "Produced": 1
+        },
+        "pipe.t8": {
+            "Type": "machine",
+            "Name": "pipe.t8",
+            "DisplayName": "Pipe (T9)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t9/pipe.png",
+            "Source": "plate.t8",
+            "Machine": "machine.shaper.t8",
+            "Produced": 1
+        },
+        "pipe.t9": {
+            "Type": "machine",
+            "Name": "pipe.t9",
+            "DisplayName": "Pipe (T10)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t10/pipe.png",
+            "Source": "plate.t9",
+            "Machine": "machine.shaper.t9",
+            "Produced": 1
+        },
+        "plate.circuit.t0": {
+            "Type": "machine",
+            "Name": "plate.circuit.t0",
+            "DisplayName": "Circuit Plate",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t1/circuit_board.png",
+            "Source": "plate.t0",
+            "Machine": "machine.refinery.t0",
+            "Produced": 1
+        },
+        "plate.circuit.t1": {
+            "Type": "machine",
+            "Name": "plate.circuit.t1",
+            "DisplayName": "Circuit Plate (T2)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t2/circuit_board.png",
+            "Source": "plate.t1",
+            "Machine": "machine.refinery.t1",
+            "Produced": 1
+        },
+        "plate.circuit.t2": {
+            "Type": "machine",
+            "Name": "plate.circuit.t2",
+            "DisplayName": "Circuit Plate (T3)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t3/circuit_board.png",
+            "Source": "plate.t2",
+            "Machine": "machine.refinery.t2",
+            "Produced": 1
+        },
+        "plate.circuit.t3": {
+            "Type": "machine",
+            "Name": "plate.circuit.t3",
+            "DisplayName": "Circuit Plate (T4)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t4/circuit_board.png",
+            "Source": "plate.t3",
+            "Machine": "machine.refinery.t3",
+            "Produced": 1
+        },
+        "plate.circuit.t4": {
+            "Type": "machine",
+            "Name": "plate.circuit.t4",
+            "DisplayName": "Circuit Plate (T5)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t5/circuit_board.png",
+            "Source": "plate.t4",
+            "Machine": "machine.refinery.t4",
+            "Produced": 1
+        },
+        "plate.circuit.t5": {
+            "Type": "machine",
+            "Name": "plate.circuit.t5",
+            "DisplayName": "Circuit Plate (T6)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t6/circuit_board.png",
+            "Source": "plate.t5",
+            "Machine": "machine.refinery.t5",
+            "Produced": 1
+        },
+        "plate.circuit.t6": {
+            "Type": "machine",
+            "Name": "plate.circuit.t6",
+            "DisplayName": "Circuit Plate (T7)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t7/circuit_board.png",
+            "Source": "plate.t6",
+            "Machine": "machine.refinery.t6",
+            "Produced": 1
+        },
+        "plate.circuit.t7": {
+            "Type": "machine",
+            "Name": "plate.circuit.t7",
+            "DisplayName": "Circuit Plate (T8)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t8/circuit_board.png",
+            "Source": "plate.t7",
+            "Machine": "machine.refinery.t7",
+            "Produced": 1
+        },
+        "plate.circuit.t8": {
+            "Type": "machine",
+            "Name": "plate.circuit.t8",
+            "DisplayName": "Circuit Plate (T9)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t9/circuit_board.png",
+            "Source": "plate.t8",
+            "Machine": "machine.refinery.t8",
+            "Produced": 1
+        },
+        "plate.circuit.t9": {
+            "Type": "machine",
+            "Name": "plate.circuit.t9",
+            "DisplayName": "Circuit Plate (T10)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t10/circuit_board.png",
+            "Source": "plate.t9",
+            "Machine": "machine.refinery.t9",
+            "Produced": 1
+        },
+        "plate.dense.t0": {
+            "Type": "machine",
+            "Name": "plate.dense.t0",
+            "DisplayName": "Dense Plate",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t1/dense_plate.png",
+            "Source": "plate.stack.t0",
+            "Machine": "machine.presser.t0",
+            "Produced": 1
+        },
+        "plate.dense.t1": {
+            "Type": "machine",
+            "Name": "plate.dense.t1",
+            "DisplayName": "Dense Plate (T2)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t2/dense_plate.png",
+            "Source": "plate.stack.t1",
+            "Machine": "machine.presser.t1",
+            "Produced": 1
+        },
+        "plate.dense.t2": {
+            "Type": "machine",
+            "Name": "plate.dense.t2",
+            "DisplayName": "Dense Plate (T3)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t3/dense_plate.png",
+            "Source": "plate.stack.t2",
+            "Machine": "machine.presser.t2",
+            "Produced": 1
+        },
+        "plate.dense.t3": {
+            "Type": "machine",
+            "Name": "plate.dense.t3",
+            "DisplayName": "Dense Plate (T4)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t4/dense_plate.png",
+            "Source": "plate.stack.t3",
+            "Machine": "machine.presser.t3",
+            "Produced": 1
+        },
+        "plate.dense.t4": {
+            "Type": "machine",
+            "Name": "plate.dense.t4",
+            "DisplayName": "Dense Plate (T5)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t5/dense_plate.png",
+            "Source": "plate.stack.t4",
+            "Machine": "machine.presser.t4",
+            "Produced": 1
+        },
+        "plate.dense.t5": {
+            "Type": "machine",
+            "Name": "plate.dense.t5",
+            "DisplayName": "Dense Plate (T6)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t6/dense_plate.png",
+            "Source": "plate.stack.t5",
+            "Machine": "machine.presser.t5",
+            "Produced": 1
+        },
+        "plate.dense.t6": {
+            "Type": "machine",
+            "Name": "plate.dense.t6",
+            "DisplayName": "Dense Plate (T7)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t7/dense_plate.png",
+            "Source": "plate.stack.t6",
+            "Machine": "machine.presser.t6",
+            "Produced": 1
+        },
+        "plate.dense.t7": {
+            "Type": "machine",
+            "Name": "plate.dense.t7",
+            "DisplayName": "Dense Plate (T8)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t8/dense_plate.png",
+            "Source": "plate.stack.t7",
+            "Machine": "machine.presser.t7",
+            "Produced": 1
+        },
+        "plate.dense.t8": {
+            "Type": "machine",
+            "Name": "plate.dense.t8",
+            "DisplayName": "Dense Plate (T9)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t9/dense_plate.png",
+            "Source": "plate.stack.t8",
+            "Machine": "machine.presser.t8",
+            "Produced": 1
+        },
+        "plate.dense.t9": {
+            "Type": "machine",
+            "Name": "plate.dense.t9",
+            "DisplayName": "Dense Plate (T10)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t10/dense_plate.png",
+            "Source": "plate.stack.t9",
+            "Machine": "machine.presser.t9",
+            "Produced": 1
+        },
+        "plate.rubber": {
+            "Type": "machine",
+            "Name": "plate.rubber",
+            "DisplayName": "Rubber Plate",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/rubber_plate.png",
+            "Source": "rubber",
+            "Machine": "machine.presser.t0",
+            "Produced": 1
+        },
+        "plate.stack.t0": {
+            "Type": "recipe",
+            "Name": "plate.stack.t0",
+            "DisplayName": "Stacked Plates",
+            "Category": "category.parts.t0",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t1/plate_stack.png",
+            "Cost": 0,
+            "Shape": [
+                "###",
+                "###",
+                "###"
+            ],
+            "Parts": {
+                "#": "plate.t0"
+            }
+        },
+        "plate.stack.t1": {
+            "Type": "recipe",
+            "Name": "plate.stack.t1",
+            "DisplayName": "Stacked Plates (T2)",
+            "Category": "category.parts.t1",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t2/plate_stack.png",
+            "Cost": 0,
+            "Shape": [
+                "###",
+                "###",
+                "###"
+            ],
+            "Parts": {
+                "#": "plate.t1"
+            }
+        },
+        "plate.stack.t2": {
+            "Type": "recipe",
+            "Name": "plate.stack.t2",
+            "DisplayName": "Stacked Plates (T3)",
+            "Category": "category.parts.t2",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t3/plate_stack.png",
+            "Cost": 0,
+            "Shape": [
+                "###",
+                "###",
+                "###"
+            ],
+            "Parts": {
+                "#": "plate.t2"
+            }
+        },
+        "plate.stack.t3": {
+            "Type": "recipe",
+            "Name": "plate.stack.t3",
+            "DisplayName": "Stacked Plates (T4)",
+            "Category": "category.parts.t3",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t4/plate_stack.png",
+            "Cost": 0,
+            "Shape": [
+                "###",
+                "###",
+                "###"
+            ],
+            "Parts": {
+                "#": "plate.t3"
+            }
+        },
+        "plate.stack.t4": {
+            "Type": "recipe",
+            "Name": "plate.stack.t4",
+            "DisplayName": "Stacked Plates (T5)",
+            "Category": "category.parts.t4",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t5/plate_stack.png",
+            "Cost": 0,
+            "Shape": [
+                "###",
+                "###",
+                "###"
+            ],
+            "Parts": {
+                "#": "plate.t4"
+            }
+        },
+        "plate.stack.t5": {
+            "Type": "recipe",
+            "Name": "plate.stack.t5",
+            "DisplayName": "Stacked Plates (T6)",
+            "Category": "category.parts.t5",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t6/plate_stack.png",
+            "Cost": 0,
+            "Shape": [
+                "###",
+                "###",
+                "###"
+            ],
+            "Parts": {
+                "#": "plate.t5"
+            }
+        },
+        "plate.stack.t6": {
+            "Type": "recipe",
+            "Name": "plate.stack.t6",
+            "DisplayName": "Stacked Plates (T7)",
+            "Category": "category.parts.t6",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t7/plate_stack.png",
+            "Cost": 0,
+            "Shape": [
+                "###",
+                "###",
+                "###"
+            ],
+            "Parts": {
+                "#": "plate.t6"
+            }
+        },
+        "plate.stack.t7": {
+            "Type": "recipe",
+            "Name": "plate.stack.t7",
+            "DisplayName": "Stacked Plates (T8)",
+            "Category": "category.parts.t7",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t8/plate_stack.png",
+            "Cost": 0,
+            "Shape": [
+                "###",
+                "###",
+                "###"
+            ],
+            "Parts": {
+                "#": "plate.t7"
+            }
+        },
+        "plate.stack.t8": {
+            "Type": "recipe",
+            "Name": "plate.stack.t8",
+            "DisplayName": "Stacked Plates (T9)",
+            "Category": "category.parts.t8",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t9/plate_stack.png",
+            "Cost": 0,
+            "Shape": [
+                "###",
+                "###",
+                "###"
+            ],
+            "Parts": {
+                "#": "plate.t8"
+            }
+        },
+        "plate.stack.t9": {
+            "Type": "recipe",
+            "Name": "plate.stack.t9",
+            "DisplayName": "Stacked Plates (T10)",
+            "Category": "category.parts.t9",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t10/plate_stack.png",
+            "Cost": 0,
+            "Shape": [
+                "###",
+                "###",
+                "###"
+            ],
+            "Parts": {
+                "#": "plate.t9"
+            }
+        },
+        "plate.t0": {
+            "Type": "machine",
+            "Name": "plate.t0",
+            "DisplayName": "Plate",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t1/plate.png",
+            "Source": "ingot.t0",
+            "Machine": "machine.presser.t0",
+            "Produced": 1
+        },
+        "plate.t1": {
+            "Type": "machine",
+            "Name": "plate.t1",
+            "DisplayName": "Plate (T2)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t2/plate.png",
+            "Source": "ingot.t1",
+            "Machine": "machine.presser.t1",
+            "Produced": 1
+        },
+        "plate.t2": {
+            "Type": "machine",
+            "Name": "plate.t2",
+            "DisplayName": "Plate (T3)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t3/plate.png",
+            "Source": "ingot.t2",
+            "Machine": "machine.presser.t2",
+            "Produced": 1
+        },
+        "plate.t3": {
+            "Type": "machine",
+            "Name": "plate.t3",
+            "DisplayName": "Plate (T4)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t4/plate.png",
+            "Source": "ingot.t3",
+            "Machine": "machine.presser.t3",
+            "Produced": 1
+        },
+        "plate.t4": {
+            "Type": "machine",
+            "Name": "plate.t4",
+            "DisplayName": "Plate (T5)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t5/plate.png",
+            "Source": "ingot.t4",
+            "Machine": "machine.presser.t4",
+            "Produced": 1
+        },
+        "plate.t5": {
+            "Type": "machine",
+            "Name": "plate.t5",
+            "DisplayName": "Plate (T6)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t6/plate.png",
+            "Source": "ingot.t5",
+            "Machine": "machine.presser.t5",
+            "Produced": 1
+        },
+        "plate.t6": {
+            "Type": "machine",
+            "Name": "plate.t6",
+            "DisplayName": "Plate (T7)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t7/plate.png",
+            "Source": "ingot.t6",
+            "Machine": "machine.presser.t6",
+            "Produced": 1
+        },
+        "plate.t7": {
+            "Type": "machine",
+            "Name": "plate.t7",
+            "DisplayName": "Plate (T8)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t8/plate.png",
+            "Source": "ingot.t7",
+            "Machine": "machine.presser.t7",
+            "Produced": 1
+        },
+        "plate.t8": {
+            "Type": "machine",
+            "Name": "plate.t8",
+            "DisplayName": "Plate (T9)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t9/plate.png",
+            "Source": "ingot.t8",
+            "Machine": "machine.presser.t8",
+            "Produced": 1
+        },
+        "plate.t9": {
+            "Type": "machine",
+            "Name": "plate.t9",
+            "DisplayName": "Plate (T10)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t10/plate.png",
+            "Source": "ingot.t9",
+            "Machine": "machine.presser.t9",
+            "Produced": 1
+        },
+        "producer.arcade.t1": {
+            "Type": "recipe",
+            "Name": "producer.arcade.t1",
+            "DisplayName": "Producer (Pink)",
+            "Category": "category.producers.t1",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t1/producer_arcade.png",
+            "Cost": 120,
+            "Shape": [
+                "ABBA",
+                "CCCC",
+                "ABBA"
+            ],
+            "Parts": {
+                "A": "pipe.t1",
+                "B": "cable.insulated.t1",
+                "C": "chip.basic"
+            }
+        },
+        "producer.arcade.t2": {
+            "Type": "recipe",
+            "Name": "producer.arcade.t2",
+            "DisplayName": "Producer (Pink) (T2)",
+            "Category": "category.producers.t2",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t2/producer_arcade.png",
+            "Cost": 3000,
+            "Shape": [
+                "ABBBA",
+                "CCDCC",
+                "ABBBA"
+            ],
+            "Parts": {
+                "A": "pipe.t3",
+                "B": "cable.insulated.t3",
+                "C": "chip.advanced",
+                "D": "producer.arcade.t1"
+            }
+        },
+        "producer.arcade.t3": {
+            "Type": "recipe",
+            "Name": "producer.arcade.t3",
+            "DisplayName": "Producer (Pink) (T3)",
+            "Category": "category.producers.t3",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t3/producer_arcade.png",
+            "Cost": 25000,
+            "Shape": [
+                "ABBBA",
+                "CCDCC",
+                "ABBBA"
+            ],
+            "Parts": {
+                "A": "pipe.t5",
+                "B": "cable.insulated.t5",
+                "C": "chip.hitech",
+                "D": "producer.arcade.t2"
+            }
+        },
+        "producer.arcade.t4": {
+            "Type": "recipe",
+            "Name": "producer.arcade.t4",
+            "DisplayName": "Producer (Pink) (T4)",
+            "Category": "category.producers.t4",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t4/producer_arcade.png",
+            "Cost": 300000,
+            "Shape": [
+                "ABBBA",
+                "CCDCC",
+                "ABBBA"
+            ],
+            "Parts": {
+                "A": "pipe.t7",
+                "B": "cable.insulated.t7",
+                "C": "chip.nano",
+                "D": "producer.arcade.t3"
+            }
+        },
+        "producer.arcade.t5": {
+            "Type": "recipe",
+            "Name": "producer.arcade.t5",
+            "DisplayName": "Producer (Pink) (T5)",
+            "Category": "category.producers.t5",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t5/producer_arcade.png",
+            "Cost": 10000000,
+            "Shape": [
+                "AABBBAA",
+                "CCCDCCC",
+                "AABBBAA"
+            ],
+            "Parts": {
+                "A": "pipe.t9",
+                "B": "cable.insulated.t8",
+                "C": "chip.quantum",
+                "D": "producer.arcade.t4"
+            }
+        },
+        "producer.constructionFirm.t1": {
+            "Type": "recipe",
+            "Name": "producer.constructionFirm.t1",
+            "DisplayName": "Producer (Brown)",
+            "Category": "category.producers.t1",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t1/producer_constructionFirm.png",
+            "Cost": 0,
+            "Shape": [
+                "AAA",
+                "#B#"
+            ],
+            "Parts": {
+                "#": "plate.t1",
+                "A": "rod.t1",
+                "B": "chip.basic"
+            }
+        },
+        "producer.constructionFirm.t2": {
+            "Type": "recipe",
+            "Name": "producer.constructionFirm.t2",
+            "DisplayName": "Producer (Brown) (T2)",
+            "Category": "category.producers.t2",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t2/producer_constructionFirm.png",
+            "Cost": 150,
+            "Shape": [
+                "ABA",
+                "#D#",
+                "ABA"
+            ],
+            "Parts": {
+                "#": "plate.t3",
+                "A": "rod.t3",
+                "B": "chip.basic",
+                "D": "producer.constructionFirm.t1"
+            }
+        },
+        "producer.constructionFirm.t3": {
+            "Type": "recipe",
+            "Name": "producer.constructionFirm.t3",
+            "DisplayName": "Producer (Brown) (T3)",
+            "Category": "category.producers.t3",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t3/producer_constructionFirm.png",
+            "Cost": 2500,
+            "Shape": [
+                "AAAAA",
+                "#BDB#",
+                "AAAAA"
+            ],
+            "Parts": {
+                "#": "plate.t5",
+                "A": "rod.t5",
+                "B": "chip.advanced",
+                "D": "producer.constructionFirm.t2"
+            }
+        },
+        "producer.constructionFirm.t4": {
+            "Type": "recipe",
+            "Name": "producer.constructionFirm.t4",
+            "DisplayName": "Producer (Brown) (T4)",
+            "Category": "category.producers.t4",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t4/producer_constructionFirm.png",
+            "Cost": 10000,
+            "Shape": [
+                "AAAAA",
+                "#BDB#",
+                "AAAAA"
+            ],
+            "Parts": {
+                "#": "plate.t7",
+                "A": "rod.t7",
+                "B": "chip.hitech",
+                "D": "producer.constructionFirm.t3"
+            }
+        },
+        "producer.constructionFirm.t5": {
+            "Type": "recipe",
+            "Name": "producer.constructionFirm.t5",
+            "DisplayName": "Producer (Brown) (T5)",
+            "Category": "category.producers.t5",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t5/producer_constructionFirm.png",
+            "Cost": 100000,
+            "Shape": [
+                "AAAAA",
+                "#BDB#",
+                "AAAAA"
+            ],
+            "Parts": {
+                "#": "plate.t9",
+                "A": "rod.t9",
+                "B": "chip.nano",
+                "D": "producer.constructionFirm.t4"
+            }
+        },
+        "producer.exoticgems.t1": {
+            "Type": "recipe",
+            "Name": "producer.exoticgems.t1",
+            "DisplayName": "Producer (Exotic)",
+            "Category": "category.producers.special",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/exotic_producer.png",
+            "Cost": 100000000000000,
+            "Shape": [
+                "+#+#+#+#",
+                "#%ABCDE+",
+                "+FGHIJ%#",
+                "#+#+#+#+"
+            ],
+            "Parts": {
+                "#": "block.dense.t9",
+                "%": "cable.insulated.t9",
+                "+": "chip.quantum",
+                "A": "machine.oven.t9",
+                "B": "machine.assembler.t9",
+                "C": "machine.refinery.t9",
+                "D": "machine.crusher.t9",
+                "E": "machine.cutter.t9",
+                "F": "machine.presser.t9",
+                "G": "machine.mixer.t9",
+                "H": "machine.transportbelt.t9",
+                "I": "machine.shaper.t9",
+                "J": "machine.boiler.t9"
+            }
+        },
+        "producer.factory.t1": {
+            "Type": "recipe",
+            "Name": "producer.factory.t1",
+            "DisplayName": "Producer (Red)",
+            "Category": "category.producers.t1",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t1/producer_factory.png",
+            "Cost": 0,
+            "Shape": [
+                "BC",
+                "AA",
+                "##"
+            ],
+            "Parts": {
+                "#": "plate.t1",
+                "A": "chip.basic",
+                "B": "wire.t0",
+                "C": "screw.t1"
+            }
+        },
+        "producer.factory.t2": {
+            "Type": "recipe",
+            "Name": "producer.factory.t2",
+            "DisplayName": "Producer (Red) (T2)",
+            "Category": "category.producers.t2",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t2/producer_factory.png",
+            "Cost": 100,
+            "Shape": [
+                "ACA",
+                "BDB",
+                "A#A"
+            ],
+            "Parts": {
+                "#": "chip.basic",
+                "A": "wire.t2",
+                "B": "plate.t2",
+                "C": "plate.circuit.t2",
+                "D": "producer.factory.t1"
+            }
+        },
+        "producer.factory.t3": {
+            "Type": "recipe",
+            "Name": "producer.factory.t3",
+            "DisplayName": "Producer (Red) (T3)",
+            "Category": "category.producers.t3",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t3/producer_factory.png",
+            "Cost": 225,
+            "Shape": [
+                "ACA",
+                "BDB",
+                "A#A"
+            ],
+            "Parts": {
+                "#": "chip.advanced",
+                "A": "wire.t4",
+                "B": "plate.t4",
+                "C": "plate.circuit.t4",
+                "D": "producer.factory.t2"
+            }
+        },
+        "producer.factory.t4": {
+            "Type": "recipe",
+            "Name": "producer.factory.t4",
+            "DisplayName": "Producer (Red) (T4)",
+            "Category": "category.producers.t4",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t4/producer_factory.png",
+            "Cost": 5000,
+            "Shape": [
+                "ACA",
+                "BDB",
+                "A#A"
+            ],
+            "Parts": {
+                "#": "chip.hitech",
+                "A": "wire.t6",
+                "B": "plate.dense.t6",
+                "C": "plate.circuit.t6",
+                "D": "producer.factory.t3"
+            }
+        },
+        "producer.factory.t5": {
+            "Type": "recipe",
+            "Name": "producer.factory.t5",
+            "DisplayName": "Producer (Red) (T5)",
+            "Category": "category.producers.t5",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t5/producer_factory.png",
+            "Cost": 35000,
+            "Shape": [
+                "ACCCA",
+                "BBDBB",
+                "A###A"
+            ],
+            "Parts": {
+                "#": "chip.nano",
+                "A": "wire.t8",
+                "B": "plate.dense.t8",
+                "C": "plate.circuit.t8",
+                "D": "producer.factory.t4"
+            }
+        },
+        "producer.gems.t1": {
+            "Type": "recipe",
+            "Name": "producer.gems.t1",
+            "DisplayName": "Producer (Gems)",
+            "Category": "category.producers.special",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/gem_producer.png",
+            "Cost": 200000000000,
+            "Shape": [
+                "+#+#+#+#",
+                "#%ABCDE+",
+                "+FGHIJ%#",
+                "#+#+#+#+"
+            ],
+            "Parts": {
+                "#": "chip.nano",
+                "%": "cable.insulated.t9",
+                "+": "chip.quantum",
+                "A": "block.dense.t0",
+                "B": "block.dense.t1",
+                "C": "block.dense.t2",
+                "D": "block.dense.t3",
+                "E": "block.dense.t4",
+                "F": "block.dense.t5",
+                "G": "block.dense.t6",
+                "H": "block.dense.t7",
+                "I": "block.dense.t8",
+                "J": "block.dense.t9"
+            }
+        },
+        "producer.headquarters.t1": {
+            "Type": "recipe",
+            "Name": "producer.headquarters.t1",
+            "DisplayName": "Producer (Purple)",
+            "Category": "category.producers.t1",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t1/producer_headquarters.png",
+            "Cost": 20,
+            "Shape": [
+                "A#A",
+                "CCC"
+            ],
+            "Parts": {
+                "#": "motor.t1",
+                "A": "wire.t0",
+                "C": "chip.basic"
+            }
+        },
+        "producer.headquarters.t2": {
+            "Type": "recipe",
+            "Name": "producer.headquarters.t2",
+            "DisplayName": "Producer (Purple) (T2)",
+            "Category": "category.producers.t2",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t2/producer_headquarters.png",
+            "Cost": 250,
+            "Shape": [
+                "A#A",
+                "CDC",
+                "A#A"
+            ],
+            "Parts": {
+                "#": "motor.t3",
+                "A": "wire.t2",
+                "C": "chip.advanced",
+                "D": "producer.headquarters.t1"
+            }
+        },
+        "producer.headquarters.t3": {
+            "Type": "recipe",
+            "Name": "producer.headquarters.t3",
+            "DisplayName": "Producer (Purple) (T3)",
+            "Category": "category.producers.t3",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t3/producer_headquarters.png",
+            "Cost": 12500,
+            "Shape": [
+                "AA#AA",
+                "CCDCC",
+                "AA#AA"
+            ],
+            "Parts": {
+                "#": "motor.t5",
+                "A": "wire.t4",
+                "C": "chip.hitech",
+                "D": "producer.headquarters.t2"
+            }
+        },
+        "producer.headquarters.t4": {
+            "Type": "recipe",
+            "Name": "producer.headquarters.t4",
+            "DisplayName": "Producer (Purple) (T4)",
+            "Category": "category.producers.t4",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t4/producer_headquarters.png",
+            "Cost": 175000,
+            "Shape": [
+                "AA#AA",
+                "CCDCC",
+                "AA#AA"
+            ],
+            "Parts": {
+                "#": "motor.t7",
+                "A": "wire.t6",
+                "C": "chip.nano",
+                "D": "producer.headquarters.t3"
+            }
+        },
+        "producer.headquarters.t5": {
+            "Type": "recipe",
+            "Name": "producer.headquarters.t5",
+            "DisplayName": "Producer (Purple) (T5)",
+            "Category": "category.producers.t5",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t5/producer_headquarters.png",
+            "Cost": 5000000,
+            "Shape": [
+                "AAA#AAA",
+                "CCCDCCC",
+                "AAA#AAA"
+            ],
+            "Parts": {
+                "#": "motor.t9",
+                "A": "wire.t8",
+                "C": "chip.quantum",
+                "D": "producer.headquarters.t4"
+            }
+        },
+        "producer.laboratory.t1": {
+            "Type": "recipe",
+            "Name": "producer.laboratory.t1",
+            "DisplayName": "Producer (Green)",
+            "Category": "category.producers.t1",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t1/producer_laboratory.png",
+            "Cost": 20,
+            "Shape": [
+                "A#A",
+                "CCC"
+            ],
+            "Parts": {
+                "#": "motor.t1",
+                "A": "plate.dense.t0",
+                "C": "chip.basic"
+            }
+        },
+        "producer.laboratory.t2": {
+            "Type": "recipe",
+            "Name": "producer.laboratory.t2",
+            "DisplayName": "Producer (Green) (T2)",
+            "Category": "category.producers.t2",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t2/producer_laboratory.png",
+            "Cost": 150,
+            "Shape": [
+                "A#A",
+                "CEC",
+                "DDD"
+            ],
+            "Parts": {
+                "#": "motor.t3",
+                "A": "plate.dense.t2",
+                "C": "chip.advanced",
+                "D": "pipe.t2",
+                "E": "producer.laboratory.t1"
+            }
+        },
+        "producer.laboratory.t3": {
+            "Type": "recipe",
+            "Name": "producer.laboratory.t3",
+            "DisplayName": "Producer (Green) (T3)",
+            "Category": "category.producers.t3",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t3/producer_laboratory.png",
+            "Cost": 9000,
+            "Shape": [
+                "AA#AA",
+                "CCECC",
+                "DDDDD"
+            ],
+            "Parts": {
+                "#": "motor.t5",
+                "A": "plate.dense.t4",
+                "C": "chip.hitech",
+                "D": "pipe.t4",
+                "E": "producer.laboratory.t2"
+            }
+        },
+        "producer.laboratory.t4": {
+            "Type": "recipe",
+            "Name": "producer.laboratory.t4",
+            "DisplayName": "Producer (Green) (T4)",
+            "Category": "category.producers.t4",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t4/producer_laboratory.png",
+            "Cost": 125000,
+            "Shape": [
+                "AA#AA",
+                "CCECC",
+                "DDDDD",
+                "DDDDD"
+            ],
+            "Parts": {
+                "#": "motor.t7",
+                "A": "plate.dense.t6",
+                "C": "chip.nano",
+                "D": "pipe.t6",
+                "E": "producer.laboratory.t3"
+            }
+        },
+        "producer.laboratory.t5": {
+            "Type": "recipe",
+            "Name": "producer.laboratory.t5",
+            "DisplayName": "Producer (Green) (T5)",
+            "Category": "category.producers.t5",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t5/producer_laboratory.png",
+            "Cost": 2500000,
+            "Shape": [
+                "AAA#AAA",
+                "CCCECCC",
+                "DDDDDDD",
+                "DDDDDDD"
+            ],
+            "Parts": {
+                "#": "motor.t9",
+                "A": "plate.dense.t8",
+                "C": "chip.quantum",
+                "D": "pipe.t8",
+                "E": "producer.laboratory.t4"
+            }
+        },
+        "producer.mine.t1": {
+            "Type": "recipe",
+            "Name": "producer.mine.t1",
+            "DisplayName": "Producer (Orange)",
+            "Category": "category.producers.t1",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t1/producer_mine.png",
+            "Cost": 0,
+            "Shape": [
+                "CC",
+                "B#",
+                "AA"
+            ],
+            "Parts": {
+                "#": "plate.t1",
+                "A": "wire.t0",
+                "B": "chip.basic",
+                "C": "screw.t1"
+            }
+        },
+        "producer.mine.t2": {
+            "Type": "recipe",
+            "Name": "producer.mine.t2",
+            "DisplayName": "Producer (Orange) (T2)",
+            "Category": "category.producers.t2",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t2/producer_mine.png",
+            "Cost": 75,
+            "Shape": [
+                "CBC",
+                "#D#",
+                "AAA"
+            ],
+            "Parts": {
+                "#": "plate.dense.t2",
+                "A": "wire.t1",
+                "B": "chip.basic",
+                "C": "screw.t2",
+                "D": "producer.mine.t1"
+            }
+        },
+        "producer.mine.t3": {
+            "Type": "recipe",
+            "Name": "producer.mine.t3",
+            "DisplayName": "Producer (Orange) (T3)",
+            "Category": "category.producers.t3",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t3/producer_mine.png",
+            "Cost": 300,
+            "Shape": [
+                "CBC",
+                "#D#",
+                "AEA"
+            ],
+            "Parts": {
+                "#": "plate.dense.t4",
+                "A": "wire.t3",
+                "B": "chip.advanced",
+                "C": "screw.t4",
+                "D": "producer.mine.t2",
+                "E": "plate.t4"
+            }
+        },
+        "producer.mine.t4": {
+            "Type": "recipe",
+            "Name": "producer.mine.t4",
+            "DisplayName": "Producer (Orange) (T4)",
+            "Category": "category.producers.t4",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t4/producer_mine.png",
+            "Cost": 4000,
+            "Shape": [
+                "CCBCC",
+                "E#D#E",
+                "AAAAA"
+            ],
+            "Parts": {
+                "#": "plate.dense.t6",
+                "A": "wire.t5",
+                "B": "chip.hitech",
+                "C": "screw.t6",
+                "D": "producer.mine.t3",
+                "E": "plate.t6"
+            }
+        },
+        "producer.mine.t5": {
+            "Type": "recipe",
+            "Name": "producer.mine.t5",
+            "DisplayName": "Producer (Orange) (T5)",
+            "Category": "category.producers.t5",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t5/producer_mine.png",
+            "Cost": 30000,
+            "Shape": [
+                "CCBCC",
+                "E#D#E",
+                "AAAAA"
+            ],
+            "Parts": {
+                "#": "plate.dense.t8",
+                "A": "wire.t7",
+                "B": "chip.nano",
+                "C": "screw.t8",
+                "D": "producer.mine.t4",
+                "E": "plate.t8"
+            }
+        },
+        "producer.museum.t1": {
+            "Type": "recipe",
+            "Name": "producer.museum.t1",
+            "DisplayName": "Producer (Grey)",
+            "Category": "category.producers.t1",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t1/producer_museum.png",
+            "Cost": 500,
+            "Shape": [
+                "AAAA",
+                "ACCA",
+                "BBBB"
+            ],
+            "Parts": {
+                "A": "cable.insulated.t2",
+                "B": "block.t1",
+                "C": "chip.basic"
+            }
+        },
+        "producer.museum.t2": {
+            "Type": "recipe",
+            "Name": "producer.museum.t2",
+            "DisplayName": "Producer (Grey) (T2)",
+            "Category": "category.producers.t2",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t2/producer_museum.png",
+            "Cost": 5000,
+            "Shape": [
+                "AAAAA",
+                "ACDCA",
+                "BBBBB"
+            ],
+            "Parts": {
+                "A": "cable.insulated.t4",
+                "B": "block.t3",
+                "C": "chip.advanced",
+                "D": "producer.museum.t1"
+            }
+        },
+        "producer.museum.t3": {
+            "Type": "recipe",
+            "Name": "producer.museum.t3",
+            "DisplayName": "Producer (Grey) (T3)",
+            "Category": "category.producers.t3",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t3/producer_museum.png",
+            "Cost": 50000,
+            "Shape": [
+                "AAAAA",
+                "ACDCA",
+                "BBBBB"
+            ],
+            "Parts": {
+                "A": "cable.insulated.t6",
+                "B": "block.t5",
+                "C": "chip.hitech",
+                "D": "producer.museum.t2"
+            }
+        },
+        "producer.museum.t4": {
+            "Type": "recipe",
+            "Name": "producer.museum.t4",
+            "DisplayName": "Producer (Grey) (T4)",
+            "Category": "category.producers.t4",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t4/producer_museum.png",
+            "Cost": 500000,
+            "Shape": [
+                "AAAAA",
+                "ACDCA",
+                "BBBBB"
+            ],
+            "Parts": {
+                "A": "cable.insulated.t8",
+                "B": "block.t7",
+                "C": "chip.nano",
+                "D": "producer.museum.t3"
+            }
+        },
+        "producer.museum.t5": {
+            "Type": "recipe",
+            "Name": "producer.museum.t5",
+            "DisplayName": "Producer (Grey) (T5)",
+            "Category": "category.producers.t5",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t5/producer_museum.png",
+            "Cost": 50000000,
+            "Shape": [
+                "AAAAAAA",
+                "ACCDCCA",
+                "BBBBBBB"
+            ],
+            "Parts": {
+                "A": "cable.insulated.t9",
+                "B": "block.t9",
+                "C": "chip.quantum",
+                "D": "producer.museum.t4"
+            }
+        },
+        "producer.powerplant.t1": {
+            "Type": "recipe",
+            "Name": "producer.powerplant.t1",
+            "DisplayName": "Producer (Yellow)",
+            "Category": "category.producers.t1",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t1/producer_powerPlant.png",
+            "Cost": 20,
+            "Shape": [
+                "A#A",
+                "CCC"
+            ],
+            "Parts": {
+                "#": "motor.t1",
+                "A": "cable.insulated.t0",
+                "C": "chip.basic"
+            }
+        },
+        "producer.powerplant.t2": {
+            "Type": "recipe",
+            "Name": "producer.powerplant.t2",
+            "DisplayName": "Producer (Yellow) (T2)",
+            "Category": "category.producers.t2",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t2/producer_powerPlant.png",
+            "Cost": 300,
+            "Shape": [
+                "A#A",
+                "CEC",
+                "DDD"
+            ],
+            "Parts": {
+                "#": "motor.t3",
+                "A": "cable.insulated.t2",
+                "C": "chip.advanced",
+                "D": "block.t2",
+                "E": "producer.powerplant.t1"
+            }
+        },
+        "producer.powerplant.t3": {
+            "Type": "recipe",
+            "Name": "producer.powerplant.t3",
+            "DisplayName": "Producer (Yellow) (T3)",
+            "Category": "category.producers.t3",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t3/producer_powerPlant.png",
+            "Cost": 17500,
+            "Shape": [
+                "AA#AA",
+                "CCECC",
+                "DDDDD"
+            ],
+            "Parts": {
+                "#": "motor.t5",
+                "A": "cable.insulated.t4",
+                "C": "chip.hitech",
+                "D": "block.t4",
+                "E": "producer.powerplant.t2"
+            }
+        },
+        "producer.powerplant.t4": {
+            "Type": "recipe",
+            "Name": "producer.powerplant.t4",
+            "DisplayName": "Producer (Yellow) (T4)",
+            "Category": "category.producers.t4",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t4/producer_powerPlant.png",
+            "Cost": 275000,
+            "Shape": [
+                "AA#AA",
+                "CCECC",
+                "DDDDD"
+            ],
+            "Parts": {
+                "#": "motor.t7",
+                "A": "cable.insulated.t6",
+                "C": "chip.nano",
+                "D": "block.t6",
+                "E": "producer.powerplant.t3"
+            }
+        },
+        "producer.powerplant.t5": {
+            "Type": "recipe",
+            "Name": "producer.powerplant.t5",
+            "DisplayName": "Producer (Yellow) (T5)",
+            "Category": "category.producers.t5",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t5/producer_powerPlant.png",
+            "Cost": 7500000,
+            "Shape": [
+                "AAA#AAA",
+                "CCCECCC",
+                "DDDDDDD",
+                "DDDDDDD"
+            ],
+            "Parts": {
+                "#": "motor.t9",
+                "A": "cable.insulated.t8",
+                "C": "chip.quantum",
+                "D": "block.t8",
+                "E": "producer.powerplant.t4"
+            }
+        },
+        "producer.shipyard.t1": {
+            "Type": "recipe",
+            "Name": "producer.shipyard.t1",
+            "DisplayName": "Producer (Cyan)",
+            "Category": "category.producers.t1",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t1/producer_shipyard.png",
+            "Cost": 500,
+            "Shape": [
+                "CAAC",
+                "ABBA",
+                "CAAC"
+            ],
+            "Parts": {
+                "A": "cable.insulated.t1",
+                "B": "chip.basic",
+                "C": "block.t0"
+            }
+        },
+        "producer.shipyard.t2": {
+            "Type": "recipe",
+            "Name": "producer.shipyard.t2",
+            "DisplayName": "Producer (Cyan) (T2)",
+            "Category": "category.producers.t2",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t2/producer_shipyard.png",
+            "Cost": 5000,
+            "Shape": [
+                "CAAAC",
+                "ABDBA",
+                "CAAAC"
+            ],
+            "Parts": {
+                "A": "cable.insulated.t3",
+                "B": "chip.advanced",
+                "C": "block.t2",
+                "D": "producer.shipyard.t1"
+            }
+        },
+        "producer.shipyard.t3": {
+            "Type": "recipe",
+            "Name": "producer.shipyard.t3",
+            "DisplayName": "Producer (Cyan) (T3)",
+            "Category": "category.producers.t3",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t3/producer_shipyard.png",
+            "Cost": 50000,
+            "Shape": [
+                "CAAAC",
+                "ABDBA",
+                "CAAAC"
+            ],
+            "Parts": {
+                "A": "cable.insulated.t5",
+                "B": "chip.hitech",
+                "C": "block.t4",
+                "D": "producer.shipyard.t2"
+            }
+        },
+        "producer.shipyard.t4": {
+            "Type": "recipe",
+            "Name": "producer.shipyard.t4",
+            "DisplayName": "Producer (Cyan) (T4)",
+            "Category": "category.producers.t4",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t4/producer_shipyard.png",
+            "Cost": 500000,
+            "Shape": [
+                "CAAAC",
+                "ABDBA",
+                "CAAAC"
+            ],
+            "Parts": {
+                "A": "cable.insulated.t7",
+                "B": "chip.nano",
+                "C": "block.t6",
+                "D": "producer.shipyard.t3"
+            }
+        },
+        "producer.shipyard.t5": {
+            "Type": "recipe",
+            "Name": "producer.shipyard.t5",
+            "DisplayName": "Producer (Cyan) (T5)",
+            "Category": "category.producers.t5",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t5/producer_shipyard.png",
+            "Cost": 50000000,
+            "Shape": [
+                "CAAAAAC",
+                "ABBDBBA",
+                "CAAAAAC"
+            ],
+            "Parts": {
+                "A": "cable.insulated.t9",
+                "B": "chip.quantum",
+                "C": "block.t8",
+                "D": "producer.shipyard.t4"
+            }
+        },
+        "producer.statueofcubos.t1": {
+            "Type": "recipe",
+            "Name": "producer.statueofcubos.t1",
+            "DisplayName": "Producer (Black)",
+            "Category": "category.producers.t1",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t1/producer_statueOfCubos.png",
+            "Cost": 500,
+            "Shape": [
+                "ADDA",
+                "ECCE",
+                "BBBB"
+            ],
+            "Parts": {
+                "A": "motor.t1",
+                "B": "block.dense.t0",
+                "C": "chip.basic",
+                "D": "pump.t1",
+                "E": "pipe.t1"
+            }
+        },
+        "producer.statueofcubos.t2": {
+            "Type": "recipe",
+            "Name": "producer.statueofcubos.t2",
+            "DisplayName": "Producer (Black) (T2)",
+            "Category": "category.producers.t2",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t2/producer_statueOfCubos.png",
+            "Cost": 5000,
+            "Shape": [
+                "ADDDA",
+                "ECFCE",
+                "BBBBB"
+            ],
+            "Parts": {
+                "A": "motor.t3",
+                "B": "block.dense.t2",
+                "C": "chip.advanced",
+                "D": "pump.t3",
+                "E": "pipe.t3",
+                "F": "producer.statueofcubos.t1"
+            }
+        },
+        "producer.statueofcubos.t3": {
+            "Type": "recipe",
+            "Name": "producer.statueofcubos.t3",
+            "DisplayName": "Producer (Black) (T3)",
+            "Category": "category.producers.t3",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t3/producer_statueOfCubos.png",
+            "Cost": 50000,
+            "Shape": [
+                "ADDDA",
+                "ECFCE",
+                "BBBBB"
+            ],
+            "Parts": {
+                "A": "motor.t5",
+                "B": "block.dense.t4",
+                "C": "chip.hitech",
+                "D": "pump.t5",
+                "E": "pipe.t5",
+                "F": "producer.statueofcubos.t2"
+            }
+        },
+        "producer.statueofcubos.t4": {
+            "Type": "recipe",
+            "Name": "producer.statueofcubos.t4",
+            "DisplayName": "Producer (Black) (T4)",
+            "Category": "category.producers.t4",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t4/producer_statueOfCubos.png",
+            "Cost": 500000,
+            "Shape": [
+                "ADDDA",
+                "ECFCE",
+                "BBBBB"
+            ],
+            "Parts": {
+                "A": "motor.t7",
+                "B": "block.dense.t6",
+                "C": "chip.nano",
+                "D": "pump.t7",
+                "E": "pipe.t7",
+                "F": "producer.statueofcubos.t3"
+            }
+        },
+        "producer.statueofcubos.t5": {
+            "Type": "recipe",
+            "Name": "producer.statueofcubos.t5",
+            "DisplayName": "Producer (Black) (T5)",
+            "Category": "category.producers.t5",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t5/producer_statueOfCubos.png",
+            "Cost": 50000000,
+            "Shape": [
+                "ADDDDDA",
+                "ECCFCCE",
+                "BBBBBBB"
+            ],
+            "Parts": {
+                "A": "motor.t9",
+                "B": "block.dense.t8",
+                "C": "chip.quantum",
+                "D": "pump.t9",
+                "E": "pipe.t9",
+                "F": "producer.statueofcubos.t4"
+            }
+        },
+        "producer.town.t1": {
+            "Type": "recipe",
+            "Name": "producer.town.t1",
+            "DisplayName": "Producer (White)",
+            "Category": "category.producers.t1",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t1/producer.png",
+            "Cost": 0,
+            "Shape": [
+                "#A",
+                "A#"
+            ],
+            "Parts": {
+                "#": "screw.t1",
+                "A": "plate.t1"
+            }
+        },
+        "producer.town.t2": {
+            "Type": "recipe",
+            "Name": "producer.town.t2",
+            "DisplayName": "Producer (White) (T2)",
+            "Category": "category.producers.t2",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t2/producer.png",
+            "Cost": 25,
+            "Shape": [
+                "#C#",
+                "APA",
+                "#C#"
+            ],
+            "Parts": {
+                "#": "screw.t2",
+                "A": "chip.basic",
+                "C": "plate.circuit.t2",
+                "P": "producer.town.t1"
+            }
+        },
+        "producer.town.t3": {
+            "Type": "recipe",
+            "Name": "producer.town.t3",
+            "DisplayName": "Producer (White) (T3)",
+            "Category": "category.producers.t3",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t3/producer.png",
+            "Cost": 150,
+            "Shape": [
+                "#C#",
+                "APA",
+                "#C#"
+            ],
+            "Parts": {
+                "#": "screw.t4",
+                "A": "chip.advanced",
+                "C": "plate.circuit.t4",
+                "P": "producer.town.t2"
+            }
+        },
+        "producer.town.t4": {
+            "Type": "recipe",
+            "Name": "producer.town.t4",
+            "DisplayName": "Producer (White) (T4)",
+            "Category": "category.producers.t4",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t4/producer.png",
+            "Cost": 3350,
+            "Shape": [
+                "#C#",
+                "APA",
+                "#C#"
+            ],
+            "Parts": {
+                "#": "screw.t6",
+                "A": "chip.hitech",
+                "C": "plate.circuit.t6",
+                "P": "producer.town.t3"
+            }
+        },
+        "producer.town.t5": {
+            "Type": "recipe",
+            "Name": "producer.town.t5",
+            "DisplayName": "Producer (White) (T5)",
+            "Category": "category.producers.t5",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t5/producer.png",
+            "Cost": 20000,
+            "Shape": [
+                "#CCC#",
+                "AAPAA",
+                "#CCC#"
+            ],
+            "Parts": {
+                "#": "screw.t8",
+                "A": "chip.nano",
+                "C": "plate.circuit.t8",
+                "P": "producer.town.t4"
+            }
+        },
+        "producer.tradingpost.t1": {
+            "Type": "recipe",
+            "Name": "producer.tradingpost.t1",
+            "DisplayName": "Producer (Lightblue)",
+            "Category": "category.producers.t1",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t1/producer_tradingPost.png",
+            "Cost": 120,
+            "Shape": [
+                "ARRA",
+                "RCCR",
+                "ARRA"
+            ],
+            "Parts": {
+                "A": "plate.t1",
+                "C": "chip.basic",
+                "R": "ring.t1"
+            }
+        },
+        "producer.tradingpost.t2": {
+            "Type": "recipe",
+            "Name": "producer.tradingpost.t2",
+            "DisplayName": "Producer (Lightblue) (T2)",
+            "Category": "category.producers.t2",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t2/producer_tradingPost.png",
+            "Cost": 3150,
+            "Shape": [
+                "ARRRA",
+                "RCDCR",
+                "ARRRA"
+            ],
+            "Parts": {
+                "A": "plate.t3",
+                "C": "chip.advanced",
+                "D": "producer.tradingpost.t1",
+                "R": "ring.t3"
+            }
+        },
+        "producer.tradingpost.t3": {
+            "Type": "recipe",
+            "Name": "producer.tradingpost.t3",
+            "DisplayName": "Producer (Lightblue) (T3)",
+            "Category": "category.producers.t3",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t3/producer_tradingPost.png",
+            "Cost": 27500,
+            "Shape": [
+                "ARRRA",
+                "RCDCR",
+                "ARRRA"
+            ],
+            "Parts": {
+                "A": "plate.t5",
+                "C": "chip.hitech",
+                "D": "producer.tradingpost.t2",
+                "R": "ring.t5"
+            }
+        },
+        "producer.tradingpost.t4": {
+            "Type": "recipe",
+            "Name": "producer.tradingpost.t4",
+            "DisplayName": "Producer (Lightblue) (T4)",
+            "Category": "category.producers.t4",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t4/producer_tradingPost.png",
+            "Cost": 315000,
+            "Shape": [
+                "ARRRA",
+                "RCDCR",
+                "ARRRA"
+            ],
+            "Parts": {
+                "A": "plate.t7",
+                "C": "chip.nano",
+                "D": "producer.tradingpost.t3",
+                "R": "ring.t7"
+            }
+        },
+        "producer.tradingpost.t5": {
+            "Type": "recipe",
+            "Name": "producer.tradingpost.t5",
+            "DisplayName": "Producer (Lightblue) (T5)",
+            "Category": "category.producers.t5",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t5/producer_tradingPost.png",
+            "Cost": 11500000,
+            "Shape": [
+                "ARRRRRA",
+                "RCCDCCR",
+                "ARRRRRA"
+            ],
+            "Parts": {
+                "A": "plate.t9",
+                "C": "chip.quantum",
+                "D": "producer.tradingpost.t4",
+                "R": "ring.t9"
+            }
+        },
+        "producer.workshop.t1": {
+            "Type": "recipe",
+            "Name": "producer.workshop.t1",
+            "DisplayName": "Producer (Blue)",
+            "Category": "category.producers.t1",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t1/producer_workshop.png",
+            "Cost": 0,
+            "Shape": [
+                "AA",
+                "#B",
+                "AA"
+            ],
+            "Parts": {
+                "#": "plate.t1",
+                "A": "wire.t0",
+                "B": "chip.basic"
+            }
+        },
+        "producer.workshop.t2": {
+            "Type": "recipe",
+            "Name": "producer.workshop.t2",
+            "DisplayName": "Producer (Blue) (T2)",
+            "Category": "category.producers.t2",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t2/producer_workshop.png",
+            "Cost": 80,
+            "Shape": [
+                "ACA",
+                "BDB",
+                "ACA"
+            ],
+            "Parts": {
+                "A": "wire.t1",
+                "B": "plate.t2",
+                "C": "wire.t2",
+                "D": "producer.workshop.t1"
+            }
+        },
+        "producer.workshop.t3": {
+            "Type": "recipe",
+            "Name": "producer.workshop.t3",
+            "DisplayName": "Producer (Blue) (T3)",
+            "Category": "category.producers.t3",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t3/producer_workshop.png",
+            "Cost": 200,
+            "Shape": [
+                "ACA",
+                "EDE",
+                "BCB"
+            ],
+            "Parts": {
+                "A": "wire.t3",
+                "B": "plate.t4",
+                "C": "wire.t4",
+                "D": "producer.workshop.t2",
+                "E": "chip.advanced"
+            }
+        },
+        "producer.workshop.t4": {
+            "Type": "recipe",
+            "Name": "producer.workshop.t4",
+            "DisplayName": "Producer (Blue) (T4)",
+            "Category": "category.producers.t4",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t4/producer_workshop.png",
+            "Cost": 7500,
+            "Shape": [
+                "AACAA",
+                "BEDEB",
+                "AACAA"
+            ],
+            "Parts": {
+                "A": "wire.t5",
+                "B": "plate.t6",
+                "C": "wire.t6",
+                "D": "producer.workshop.t3",
+                "E": "chip.hitech"
+            }
+        },
+        "producer.workshop.t5": {
+            "Type": "recipe",
+            "Name": "producer.workshop.t5",
+            "DisplayName": "Producer (Blue) (T5)",
+            "Category": "category.producers.t5",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t5/producer_workshop.png",
+            "Cost": 200000,
+            "Shape": [
+                "AACAA",
+                "BEDEB",
+                "AACAA"
+            ],
+            "Parts": {
+                "A": "wire.t7",
+                "B": "plate.t8",
+                "C": "wire.t8",
+                "D": "producer.workshop.t4",
+                "E": "chip.nano"
+            }
+        },
+        "pump.t0": {
+            "Type": "recipe",
+            "Name": "pump.t0",
+            "DisplayName": "Pump",
+            "Category": "category.parts.t0",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t1/pump.png",
+            "Cost": 0,
+            "Shape": [
+                "ABA",
+                "#C#",
+                "ABA"
+            ],
+            "Parts": {
+                "#": "plate.t0",
+                "A": "plate.rubber",
+                "B": "ring.t0",
+                "C": "motor.t0"
+            }
+        },
+        "pump.t1": {
+            "Type": "recipe",
+            "Name": "pump.t1",
+            "DisplayName": "Pump (T2)",
+            "Category": "category.parts.t1",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t2/pump.png",
+            "Cost": 25,
+            "Shape": [
+                "ABA",
+                "#C#",
+                "ABA"
+            ],
+            "Parts": {
+                "#": "plate.t1",
+                "A": "plate.rubber",
+                "B": "ring.t1",
+                "C": "motor.t1"
+            }
+        },
+        "pump.t2": {
+            "Type": "recipe",
+            "Name": "pump.t2",
+            "DisplayName": "Pump (T3)",
+            "Category": "category.parts.t2",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t3/pump.png",
+            "Cost": 250,
+            "Shape": [
+                "ABA",
+                "#C#",
+                "ABA"
+            ],
+            "Parts": {
+                "#": "plate.t2",
+                "A": "plate.rubber",
+                "B": "ring.t2",
+                "C": "motor.t2"
+            }
+        },
+        "pump.t3": {
+            "Type": "recipe",
+            "Name": "pump.t3",
+            "DisplayName": "Pump (T4)",
+            "Category": "category.parts.t3",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t4/pump.png",
+            "Cost": 1875,
+            "Shape": [
+                "ABA",
+                "#C#",
+                "ABA"
+            ],
+            "Parts": {
+                "#": "plate.t3",
+                "A": "plate.rubber",
+                "B": "ring.t3",
+                "C": "motor.t3"
+            }
+        },
+        "pump.t4": {
+            "Type": "recipe",
+            "Name": "pump.t4",
+            "DisplayName": "Pump (T5)",
+            "Category": "category.parts.t4",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t5/pump.png",
+            "Cost": 12500,
+            "Shape": [
+                "ABA",
+                "#C#",
+                "ABA"
+            ],
+            "Parts": {
+                "#": "plate.t4",
+                "A": "plate.rubber",
+                "B": "ring.t4",
+                "C": "motor.t4"
+            }
+        },
+        "pump.t5": {
+            "Type": "recipe",
+            "Name": "pump.t5",
+            "DisplayName": "Pump (T6)",
+            "Category": "category.parts.t5",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t6/pump.png",
+            "Cost": 78125,
+            "Shape": [
+                "ABA",
+                "#C#",
+                "ABA"
+            ],
+            "Parts": {
+                "#": "plate.t5",
+                "A": "plate.rubber",
+                "B": "ring.t5",
+                "C": "motor.t5"
+            }
+        },
+        "pump.t6": {
+            "Type": "recipe",
+            "Name": "pump.t6",
+            "DisplayName": "Pump (T7)",
+            "Category": "category.parts.t6",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t7/pump.png",
+            "Cost": 468750,
+            "Shape": [
+                "ABA",
+                "#C#",
+                "ABA"
+            ],
+            "Parts": {
+                "#": "plate.t6",
+                "A": "plate.rubber",
+                "B": "ring.t6",
+                "C": "motor.t6"
+            }
+        },
+        "pump.t7": {
+            "Type": "recipe",
+            "Name": "pump.t7",
+            "DisplayName": "Pump (T8)",
+            "Category": "category.parts.t7",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t8/pump.png",
+            "Cost": 2734375,
+            "Shape": [
+                "ABA",
+                "#C#",
+                "ABA"
+            ],
+            "Parts": {
+                "#": "plate.t7",
+                "A": "plate.rubber",
+                "B": "ring.t7",
+                "C": "motor.t7"
+            }
+        },
+        "pump.t8": {
+            "Type": "recipe",
+            "Name": "pump.t8",
+            "DisplayName": "Pump (T9)",
+            "Category": "category.parts.t8",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t9/pump.png",
+            "Cost": 15625000,
+            "Shape": [
+                "ABA",
+                "#C#",
+                "ABA"
+            ],
+            "Parts": {
+                "#": "plate.t8",
+                "A": "plate.rubber",
+                "B": "ring.t8",
+                "C": "motor.t8"
+            }
+        },
+        "pump.t9": {
+            "Type": "recipe",
+            "Name": "pump.t9",
+            "DisplayName": "Pump (T10)",
+            "Category": "category.parts.t9",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t10/pump.png",
+            "Cost": 87890625,
+            "Shape": [
+                "ABA",
+                "#C#",
+                "ABA"
+            ],
+            "Parts": {
+                "#": "plate.t9",
+                "A": "plate.rubber",
+                "B": "ring.t9",
+                "C": "motor.t9"
+            }
+        },
+        "ring.t0": {
+            "Type": "machine",
+            "Name": "ring.t0",
+            "DisplayName": "Ring",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t1/ring.png",
+            "Source": "rod.t0",
+            "Machine": "machine.shaper.t0",
+            "Produced": 1
+        },
+        "ring.t1": {
+            "Type": "machine",
+            "Name": "ring.t1",
+            "DisplayName": "Ring (T2)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t2/ring.png",
+            "Source": "rod.t1",
+            "Machine": "machine.shaper.t1",
+            "Produced": 1
+        },
+        "ring.t2": {
+            "Type": "machine",
+            "Name": "ring.t2",
+            "DisplayName": "Ring (T3)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t3/ring.png",
+            "Source": "rod.t2",
+            "Machine": "machine.shaper.t2",
+            "Produced": 1
+        },
+        "ring.t3": {
+            "Type": "machine",
+            "Name": "ring.t3",
+            "DisplayName": "Ring (T4)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t4/ring.png",
+            "Source": "rod.t3",
+            "Machine": "machine.shaper.t3",
+            "Produced": 1
+        },
+        "ring.t4": {
+            "Type": "machine",
+            "Name": "ring.t4",
+            "DisplayName": "Ring (T5)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t5/ring.png",
+            "Source": "rod.t4",
+            "Machine": "machine.shaper.t4",
+            "Produced": 1
+        },
+        "ring.t5": {
+            "Type": "machine",
+            "Name": "ring.t5",
+            "DisplayName": "Ring (T6)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t6/ring.png",
+            "Source": "rod.t5",
+            "Machine": "machine.shaper.t5",
+            "Produced": 1
+        },
+        "ring.t6": {
+            "Type": "machine",
+            "Name": "ring.t6",
+            "DisplayName": "Ring (T7)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t7/ring.png",
+            "Source": "rod.t6",
+            "Machine": "machine.shaper.t6",
+            "Produced": 1
+        },
+        "ring.t7": {
+            "Type": "machine",
+            "Name": "ring.t7",
+            "DisplayName": "Ring (T8)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t8/ring.png",
+            "Source": "rod.t7",
+            "Machine": "machine.shaper.t7",
+            "Produced": 1
+        },
+        "ring.t8": {
+            "Type": "machine",
+            "Name": "ring.t8",
+            "DisplayName": "Ring (T9)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t9/ring.png",
+            "Source": "rod.t8",
+            "Machine": "machine.shaper.t8",
+            "Produced": 1
+        },
+        "ring.t9": {
+            "Type": "machine",
+            "Name": "ring.t9",
+            "DisplayName": "Ring (T10)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t10/ring.png",
+            "Source": "rod.t9",
+            "Machine": "machine.shaper.t9",
+            "Produced": 1
+        },
+        "rod.t0": {
+            "Type": "machine",
+            "Name": "rod.t0",
+            "DisplayName": "Rod",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t1/rod.png",
+            "Source": "ingot.t0",
+            "Machine": "machine.shaper.t0",
+            "Produced": 2
+        },
+        "rod.t1": {
+            "Type": "machine",
+            "Name": "rod.t1",
+            "DisplayName": "Rod (T2)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t2/rod.png",
+            "Source": "ingot.t1",
+            "Machine": "machine.shaper.t1",
+            "Produced": 2
+        },
+        "rod.t2": {
+            "Type": "machine",
+            "Name": "rod.t2",
+            "DisplayName": "Rod (T3)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t3/rod.png",
+            "Source": "ingot.t2",
+            "Machine": "machine.shaper.t2",
+            "Produced": 2
+        },
+        "rod.t3": {
+            "Type": "machine",
+            "Name": "rod.t3",
+            "DisplayName": "Rod (T4)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t4/rod.png",
+            "Source": "ingot.t3",
+            "Machine": "machine.shaper.t3",
+            "Produced": 2
+        },
+        "rod.t4": {
+            "Type": "machine",
+            "Name": "rod.t4",
+            "DisplayName": "Rod (T5)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t5/rod.png",
+            "Source": "ingot.t4",
+            "Machine": "machine.shaper.t4",
+            "Produced": 2
+        },
+        "rod.t5": {
+            "Type": "machine",
+            "Name": "rod.t5",
+            "DisplayName": "Rod (T6)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t6/rod.png",
+            "Source": "ingot.t5",
+            "Machine": "machine.shaper.t5",
+            "Produced": 2
+        },
+        "rod.t6": {
+            "Type": "machine",
+            "Name": "rod.t6",
+            "DisplayName": "Rod (T7)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t7/rod.png",
+            "Source": "ingot.t6",
+            "Machine": "machine.shaper.t6",
+            "Produced": 2
+        },
+        "rod.t7": {
+            "Type": "machine",
+            "Name": "rod.t7",
+            "DisplayName": "Rod (T8)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t8/rod.png",
+            "Source": "ingot.t7",
+            "Machine": "machine.shaper.t7",
+            "Produced": 2
+        },
+        "rod.t8": {
+            "Type": "machine",
+            "Name": "rod.t8",
+            "DisplayName": "Rod (T9)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t9/rod.png",
+            "Source": "ingot.t8",
+            "Machine": "machine.shaper.t8",
+            "Produced": 2
+        },
+        "rod.t9": {
+            "Type": "machine",
+            "Name": "rod.t9",
+            "DisplayName": "Rod (T10)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t10/rod.png",
+            "Source": "ingot.t9",
+            "Machine": "machine.shaper.t9",
+            "Produced": 2
+        },
+        "rubber": {
+            "Type": "shop",
+            "Name": "rubber",
+            "DisplayName": "Rubber",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/rubber.png",
+            "Cost": 3
+        },
+        "screw.t0": {
+            "Type": "machine",
+            "Name": "screw.t0",
+            "DisplayName": "Screw",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t1/screw.png",
+            "Source": "rod.t0",
+            "Machine": "machine.cutter.t0",
+            "Produced": 4
+        },
+        "screw.t1": {
+            "Type": "machine",
+            "Name": "screw.t1",
+            "DisplayName": "Screw (T2)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t2/screw.png",
+            "Source": "rod.t1",
+            "Machine": "machine.cutter.t1",
+            "Produced": 4
+        },
+        "screw.t2": {
+            "Type": "machine",
+            "Name": "screw.t2",
+            "DisplayName": "Screw (T3)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t3/screw.png",
+            "Source": "rod.t2",
+            "Machine": "machine.cutter.t2",
+            "Produced": 4
+        },
+        "screw.t3": {
+            "Type": "machine",
+            "Name": "screw.t3",
+            "DisplayName": "Screw (T4)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t4/screw.png",
+            "Source": "rod.t3",
+            "Machine": "machine.cutter.t3",
+            "Produced": 4
+        },
+        "screw.t4": {
+            "Type": "machine",
+            "Name": "screw.t4",
+            "DisplayName": "Screw (T5)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t5/screw.png",
+            "Source": "rod.t4",
+            "Machine": "machine.cutter.t4",
+            "Produced": 4
+        },
+        "screw.t5": {
+            "Type": "machine",
+            "Name": "screw.t5",
+            "DisplayName": "Screw (T6)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t6/screw.png",
+            "Source": "rod.t5",
+            "Machine": "machine.cutter.t5",
+            "Produced": 4
+        },
+        "screw.t6": {
+            "Type": "machine",
+            "Name": "screw.t6",
+            "DisplayName": "Screw (T7)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t7/screw.png",
+            "Source": "rod.t6",
+            "Machine": "machine.cutter.t6",
+            "Produced": 4
+        },
+        "screw.t7": {
+            "Type": "machine",
+            "Name": "screw.t7",
+            "DisplayName": "Screw (T8)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t8/screw.png",
+            "Source": "rod.t7",
+            "Machine": "machine.cutter.t7",
+            "Produced": 4
+        },
+        "screw.t8": {
+            "Type": "machine",
+            "Name": "screw.t8",
+            "DisplayName": "Screw (T9)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t9/screw.png",
+            "Source": "rod.t8",
+            "Machine": "machine.cutter.t8",
+            "Produced": 4
+        },
+        "screw.t9": {
+            "Type": "machine",
+            "Name": "screw.t9",
+            "DisplayName": "Screw (T10)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t10/screw.png",
+            "Source": "rod.t9",
+            "Machine": "machine.cutter.t9",
+            "Produced": 4
+        },
+        "wire.t0": {
+            "Type": "machine",
+            "Name": "wire.t0",
+            "DisplayName": "Wire",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t1/wire.png",
+            "Source": "cable.t0",
+            "Machine": "machine.refinery.t0",
+            "Produced": 1
+        },
+        "wire.t1": {
+            "Type": "machine",
+            "Name": "wire.t1",
+            "DisplayName": "Wire (T2)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t2/wire.png",
+            "Source": "cable.t1",
+            "Machine": "machine.refinery.t1",
+            "Produced": 1
+        },
+        "wire.t2": {
+            "Type": "machine",
+            "Name": "wire.t2",
+            "DisplayName": "Wire (T3)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t3/wire.png",
+            "Source": "cable.t2",
+            "Machine": "machine.refinery.t2",
+            "Produced": 1
+        },
+        "wire.t3": {
+            "Type": "machine",
+            "Name": "wire.t3",
+            "DisplayName": "Wire (T4)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t4/wire.png",
+            "Source": "cable.t3",
+            "Machine": "machine.refinery.t3",
+            "Produced": 1
+        },
+        "wire.t4": {
+            "Type": "machine",
+            "Name": "wire.t4",
+            "DisplayName": "Wire (T5)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t5/wire.png",
+            "Source": "cable.t4",
+            "Machine": "machine.refinery.t4",
+            "Produced": 1
+        },
+        "wire.t5": {
+            "Type": "machine",
+            "Name": "wire.t5",
+            "DisplayName": "Wire (T6)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t6/wire.png",
+            "Source": "cable.t5",
+            "Machine": "machine.refinery.t5",
+            "Produced": 1
+        },
+        "wire.t6": {
+            "Type": "machine",
+            "Name": "wire.t6",
+            "DisplayName": "Wire (T7)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t7/wire.png",
+            "Source": "cable.t6",
+            "Machine": "machine.refinery.t6",
+            "Produced": 1
+        },
+        "wire.t7": {
+            "Type": "machine",
+            "Name": "wire.t7",
+            "DisplayName": "Wire (T8)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t8/wire.png",
+            "Source": "cable.t7",
+            "Machine": "machine.refinery.t7",
+            "Produced": 1
+        },
+        "wire.t8": {
+            "Type": "machine",
+            "Name": "wire.t8",
+            "DisplayName": "Wire (T9)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t9/wire.png",
+            "Source": "cable.t8",
+            "Machine": "machine.refinery.t8",
+            "Produced": 1
+        },
+        "wire.t9": {
+            "Type": "machine",
+            "Name": "wire.t9",
+            "DisplayName": "Wire (T10)",
+            "URLPath": "https://www.perfecttower2.com/resources/factory/items/t10/wire.png",
+            "Source": "cable.t9",
+            "Machine": "machine.refinery.t9",
+            "Produced": 1
+        }
+    }
+}
